@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://cronicasdomar.pages.dev/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url>
+<loc>https://cronicasdomar.pages.dev/</loc>
+</url>
+<url>
+<loc>https://cronicasdomar.pages.dev/edits.html</loc>
+<lastmod>2026-06-21T17:02:12-03:00</lastmod>
+</url>
+<url>
+<loc>https://cronicasdomar.pages.dev/elefante-branco.html</loc>
+<lastmod>2026-06-22T02:12:08-03:00</lastmod>
+<image:image>
+<image:loc>https://cronicasdomar.pages.dev/media/posts/6/7596ac69e6f4938a44badd8.png</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://cronicasdomar.pages.dev/logs.html</loc>
+<lastmod>2026-06-21T17:02:25-03:00</lastmod>
+</url>
+<url>
+<loc>https://cronicasdomar.pages.dev/publicacoes.html</loc>
+<lastmod>2026-06-21T19:21:11-03:00</lastmod>
+</url>
+<url>
+<loc>https://cronicasdomar.pages.dev/sobre-mim.html</loc>
+<lastmod>2026-06-21T17:02:47-03:00</lastmod>
+</url>
+</urlset>
