@@ -5,15 +5,79 @@
     "home_page_url": "https://cronicasdomar.pages.dev",
     "feed_url": "https://cronicasdomar.pages.dev/feed.json",
     "user_comment": "",
+    "icon": "https://cronicasdomar.pages.dev/media/website/g11.svg",
     "author": {
         "name": "Anthuan Sousa"
     },
     "items": [
         {
-            "id": "https://cronicasdomar.pages.dev/elefante-branco.html",
-            "url": "https://cronicasdomar.pages.dev/elefante-branco.html",
+            "id": "https://cronicasdomar.pages.dev/posts/teste/",
+            "url": "https://cronicasdomar.pages.dev/posts/teste/",
+            "title": "Teste",
+            "summary": "De que valem as palavras? Consegue ouvi-las? Aquecem teu coração? Ou flutuam como bolhas de sabão? Dispersas, coloridas e inebriantes no ar quente desse tempo de verão?",
+            "content_html": "<p class=\"dropcap\">De que valem as palavras? Consegue ouvi-las? Aquecem teu coração? Ou flutuam como bolhas de sabão? Dispersas, coloridas e inebriantes no ar quente desse tempo de verão?</p>",
+            "image": "https://cronicasdomar.pages.dev/media/posts/10/garrafa.webp",
+            "author": {
+                "name": "Anthuan Sousa"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-06-22T23:53:10-03:00",
+            "date_modified": "2026-06-22T23:53:10-03:00"
+        },
+        {
+            "id": "https://cronicasdomar.pages.dev/posts/bolhas-de-sabao/",
+            "url": "https://cronicasdomar.pages.dev/posts/bolhas-de-sabao/",
+            "title": "Bolhas de Sabão",
+            "summary": "De que valem as palavras? Consegue ouvi-las? Aquecem teu coração? Ou flutuam como bolhas de sabão? Dispersas, coloridas e inebriantes no ar quente desse tempo de verão? A sombra, a luz, os risos, as crianças, o teu colo, o teu sorriso... o teu sorriso. Olhar de ressaca... Teus dedos languidos. Teu toque. O mundo nas&hellip;",
+            "content_html": "<div style=\"text-align: center;\"><img loading=\"lazy\" style=\"max-width: 100%; height: auto;\" src=\"https://dl.dropboxusercontent.com/scl/fi/cgwlq0bcjzt86y5w9agoi/1757560494805.jpg?rlkey=j5jh97cravelydm8uxivcapbw&amp;st=btdv996u&amp;raw=1\" alt=\"Ocean and Bubbles\" data-is-external-image=\"true\"></div>\n<div style=\"text-align: center;\"><img loading=\"lazy\" style=\"max-width: 100%; height: auto;\" src=\"https://dl.dropboxusercontent.com/scl/fi/topewiaun219zwvixzksa/divis-ria.png?rlkey=39jammnhf3cdsrzq97dgd9qp8&amp;st=l8qznnx4&amp;raw=1\" alt=\"Divisória\" data-is-external-image=\"true\"></div>\n<p><span style=\"font-size: 2em;\">D</span>e que valem as palavras? Consegue ouvi-las? Aquecem teu coração? Ou flutuam como bolhas de sabão? Dispersas, coloridas e inebriantes no ar quente desse tempo de verão?</p>\n<p>A sombra, a luz, os risos, as crianças, o teu colo, o teu sorriso... o teu sorriso.</p>\n<p>Olhar de ressaca...</p>\n<p>Teus dedos languidos. Teu toque. O mundo nas mãos... Deitado tremo.</p>\n<p>Amor e medo. Antídoto e veneno. Calor e frio.</p>\n<p>Um dia minhas palavras te alcançaram?</p>\n<p>Um dia você foi meu? Fez parte de mim como eu fiz parte de ti?</p>\n<p>Ou foi uma ideia tola evanescida como uma bolha de sabão?</p>\n<div class=\"navegacao-posts\"><span class=\"nav-btn nav-anterior\">{{ previous_post }}</span> <span class=\"nav-divisor\">|</span> <span class=\"nav-btn nav-proximo\">{{ next_post }}</span></div>\n<div style=\"text-align: center;\"><img loading=\"lazy\" style=\"max-width: 100%; height: auto;\" src=\"https://dl.dropboxusercontent.com/scl/fi/topewiaun219zwvixzksa/divis-ria.png?rlkey=39jammnhf3cdsrzq97dgd9qp8&amp;st=l8qznnx4&amp;raw=1\" alt=\"Divisória\" data-is-external-image=\"true\"></div>\n<div class=\"botoes-rodape-icons\"><a href=\"https://mastodon.social/@anthuansousa\" target=\"_blank\" title=\"Mastodon\" rel=\"noopener\"> <img src=\"https://www.dropbox.com/scl/fi/wpz8d76d8erzbir354llv/mastodon.png?rlkey=8af5iqu0723rt7e00avoke8b0&amp;st=pi0p4wt7&amp;raw=1\" alt=\"Mastodon\" data-is-external-image=\"true\"> </a> <a href=\"https://pixelfed.social/anthuansousa\" target=\"_blank\" title=\"Pixelfed\" rel=\"noopener\"> <img loading=\"lazy\" src=\"https://www.dropbox.com/scl/fi/gogyj3bdseva0ttwtzkc7/pixelfed.png?rlkey=gnyxwtww7kk6cy90c9wf6spca&amp;st=rh5eq2ii&amp;raw=1\" alt=\"Pixelfed\" data-is-external-image=\"true\"> </a> <a href=\"https://signal.me/#eu/GLmRMPyIls7kcXrogrLnz3QMNAN11b_7epFvdflKiA9ge_PqJhBJCZTxgoVYw9Ke\" target=\"_blank\" title=\"Signal\" rel=\"noopener\"> <img loading=\"lazy\" src=\"https://www.dropbox.com/scl/fi/z21mawm9lxj8c1h63xtlg/signal.png?rlkey=vzlp6p95kgy91hs01uphkrqeb&amp;st=zyrjm4mt&amp;raw=1\" alt=\"Signal\" data-is-external-image=\"true\"> </a></div>\n<div class=\"rodape-cc\"><a href=\"https://creativecommons.org/licenses/by-sa/4.0/deed.pt_BR\" target=\"_blank\" title=\"Este trabalho está licenciado sob uma Licença Creative Commons Atribuição-CompartilhaIgual 4.0 Internacional\" rel=\"noopener\"> <img loading=\"lazy\" src=\"https://www.dropbox.com/scl/fi/l0ycjuosf3reuygmrv4l7/creativecommons.png?rlkey=1d332t8mxocsjhgduphu9jt3f&amp;st=fg4eowzk&amp;raw=1\" alt=\"Licença Creative Commons BY-SA\" data-is-external-image=\"true\"> </a></div>",
+            "image": "https://cronicasdomar.pages.dev/media/posts/9/bubles.webp",
+            "author": {
+                "name": "Anthuan Sousa"
+            },
+            "tags": [
+                   "Destaque",
+                   "Deriva"
+            ],
+            "date_published": "2026-06-22T23:44:54-03:00",
+            "date_modified": "2026-06-23T01:59:30-03:00"
+        },
+        {
+            "id": "https://cronicasdomar.pages.dev/posts/labirinto/",
+            "url": "https://cronicasdomar.pages.dev/posts/labirinto/",
+            "title": "Labirinto",
+            "summary": "Você já se sentiu em um loop do qual não conseguiu sair? Não sei mais como lidar com isso. — Semana que vem vai dar certo. Segunda, não é? — Não, mas para fazer isso eu preciso terminar aquilo. — E aquela dieta? Vai dar certo? — Só consigo treinar quando chegar em casa, mas&hellip;",
+            "content_html": "<div style=\"text-align: center;\"><img loading=\"lazy\" src=\"https://www.dropbox.com/scl/fi/fpb6cy4egu8vtyhjco6ct/oculos.png?rlkey=cqameh8mty4cvn375733suym7&amp;st=v4bk9bvy&amp;raw=1\" alt=\"Óculos sobre livro\" data-is-external-image=\"true\"></div>\n<p><span style=\"font-size: 2em;\">V</span>ocê já se sentiu em um loop do qual não conseguiu sair?</p>\n<p>Não sei mais como lidar com isso.</p>\n<p>— Semana que vem vai dar certo. Segunda, não é?</p>\n<p>— Não, mas para fazer isso eu preciso terminar aquilo.</p>\n<p>— E aquela dieta? Vai dar certo?</p>\n<p>— Só consigo treinar quando chegar em casa, mas já chego tão cansado... Semana que vem eu começo. Semana que vem sem falta.</p>\n<p>E a surpresa? Nenhuma! Você já deve saber o resultado. Já me perguntei o motivo da sabotagem. Já pensei até o fato de que pode ser um mecanismo de recompensa interno.</p>\n<p>— Ora, a vida já é tão fodida, porque não aproveitar enquanto podemos? – é o que meu cérebro diria se ele falasse, talvez.</p>\n<p>Mas sabe qual o abalo? A verdade é que talvez eu não consiga definir uma meta pelo simples fato de não ver sentido em metas. De não achar que valha a pena. De não ter razão nem o porque. E de outras questões existenciais que vão muito além de uma automação de um processo inventado para alimentar um sistema inventado.</p>\n<p>Faz parecer que eu vivo descolado dessa realidade. Como se me visse do lado de fora de uma vitrine. Observando o manequim – eu. E para falar a verdade não sei se me jogaram para fora dessa loja, ou se andei pela porta por vontade própria. Sem chave e sem maçaneta.</p>\n<p>São forças de todas as vertentes contra a minha caminhada. Mas o cerne da minha questão é:</p>\n<p>— Pra que essa caminhada?</p>\n<p>— Porque eu só me sinto bem se me sentir bonito e desejado?</p>\n<p>— Porque eu tenho que alimentar esse sistema que me destrói? Que remove a minha identidade dia após dia?</p>\n<p>— Porque ser eu mesmo é uma inconveniência para quem me cerca?</p>\n<p>— Porque nós seres humanos não podemos viver bem sem nossas manias e apegos?</p>\n<p>— Porque eu, mesmo rejeitando tudo isso, me sinto bem em seguir dentro de uma bolha ao mesmo tempo que me sinto mal por estar nela?</p>\n<p>Ser quem eu sou não é facil. Os degraus, o caminho, a montanha estão ali para serem superados. Viver é o inferno.</p>\n<p>“O inferno são os outros.”</p>\n<p>É claro que cada um vive seu inferno particular. Mas sobre a dor de ser quem eu sou, só eu sei, soube e saberei.</p>\n<p>O que posso fazer, por ora é viver um dia de cada vez.</p>\n<p>Aceitar meus erros. Tropeçar e cair. Pra que no final dessa caminhada sem sentido, eu possa olhar para os meus joelhos e quem sabe, para cima, e ver que a caminhada não foi em vão.</p>\n<div class=\"navegacao-posts\"><span class=\"nav-btn nav-anterior\">{{ previous_post }}</span> <span class=\"nav-divisor\">|</span> <span class=\"nav-btn nav-proximo\">{{ next_post }}</span></div>\n<div style=\"text-align: center;\"><img loading=\"lazy\" style=\"max-width: 100%; height: auto;\" src=\"https://www.dropbox.com/scl/fi/topewiaun219zwvixzksa/divis-ria.png?rlkey=39jammnhf3cdsrzq97dgd9qp8&amp;st=l8qznnx4&amp;raw=1\" alt=\"Divisória\" data-is-external-image=\"true\"></div>\n<div class=\"botoes-rodape-icons\"><a href=\"https://mastodon.social/@anthuansousa\" target=\"_blank\" title=\"Mastodon\" rel=\"noopener\"> <img src=\"https://www.dropbox.com/scl/fi/wpz8d76d8erzbir354llv/mastodon.png?rlkey=8af5iqu0723rt7e00avoke8b0&amp;st=pi0p4wt7&amp;raw=1\" alt=\"Mastodon\" data-is-external-image=\"true\"> </a> <a href=\"https://pixelfed.social/anthuansousa\" target=\"_blank\" title=\"Pixelfed\" rel=\"noopener\"> <img loading=\"lazy\" src=\"https://www.dropbox.com/scl/fi/gogyj3bdseva0ttwtzkc7/pixelfed.png?rlkey=gnyxwtww7kk6cy90c9wf6spca&amp;st=rh5eq2ii&amp;raw=1\" alt=\"Pixelfed\" data-is-external-image=\"true\"> </a> <a href=\"https://signal.me/#eu/GLmRMPyIls7kcXrogrLnz3QMNAN11b_7epFvdflKiA9ge_PqJhBJCZTxgoVYw9Ke\" target=\"_blank\" title=\"Signal\" rel=\"noopener\"> <img loading=\"lazy\" src=\"https://www.dropbox.com/scl/fi/z21mawm9lxj8c1h63xtlg/signal.png?rlkey=vzlp6p95kgy91hs01uphkrqeb&amp;st=zyrjm4mt&amp;raw=1\" alt=\"Signal\" data-is-external-image=\"true\"> </a></div>\n<div class=\"rodape-cc\"><a href=\"https://creativecommons.org/licenses/by-sa/4.0/deed.pt_BR\" target=\"_blank\" title=\"Este trabalho está licenciado sob uma Licença Creative Commons Atribuição-CompartilhaIgual 4.0 Internacional\" rel=\"noopener\"> <img loading=\"lazy\" src=\"https://www.dropbox.com/scl/fi/l0ycjuosf3reuygmrv4l7/creativecommons.png?rlkey=1d332t8mxocsjhgduphu9jt3f&amp;st=fg4eowzk&amp;raw=1\" alt=\"Licença Creative Commons BY-SA\" data-is-external-image=\"true\"> </a></div>",
+            "author": {
+                "name": "Anthuan Sousa"
+            },
+            "tags": [
+                   "Edits"
+            ],
+            "date_published": "2026-06-22T23:43:38-03:00",
+            "date_modified": "2026-06-22T23:43:50-03:00"
+        },
+        {
+            "id": "https://cronicasdomar.pages.dev/posts/carta-para-lir/",
+            "url": "https://cronicasdomar.pages.dev/posts/carta-para-lir/",
+            "title": "Carta para Lir",
+            "summary": "Querido Lir. Eu queria poder falar abertamente sobre as coisas das quais te invejo. Queria poder ter sua beleza. Queria poder exalar teu bom perfume. Queria poder me sobressair com o rosto não tão cansado assim. Queria poder. Queria poder. Invejo sua luz e sua leveza. Invejo sobre como você olha pela janela e vê&hellip;",
+            "content_html": "<div style=\"text-align: center;\"><img loading=\"lazy\" style=\"max-width: 100%; height: auto;\" src=\"https://www.dropbox.com/scl/fi/topewiaun219zwvixzksa/divis-ria.png?rlkey=39jammnhf3cdsrzq97dgd9qp8&amp;st=l8qznnx4&amp;raw=1\" alt=\"Divisória\" data-is-external-image=\"true\"></div>\n<p><span style=\"font-size: 2em;\">Q</span>uerido Lir.</p>\n<p>Eu queria poder falar abertamente sobre as coisas das quais te invejo.</p>\n<p>Queria poder ter sua beleza.<br>Queria poder exalar teu bom perfume.<br>Queria poder me sobressair com o rosto não tão cansado assim.<br>Queria poder.<br>Queria poder.</p>\n<p>Invejo sua luz e sua leveza.<br>Invejo sobre como você olha pela janela e vê o colorido do mundo.<br>Invejo sobre como você sempre revida. Por não deixar a escuridão desse mundo te levar.</p>\n<p>Te invejo pelo sorriso frouxo.<br>Te invejo pela sua audácia.<br>Te invejo por se abraçar como és.<br>Te invejo.</p>\n<p>Por ventura, se um dia puder te cantar uma canção, que essa canção faça morada no teu coração. Porque essa carta, meu querido Lir, não possue outra coisa se não amor.</p>\n<p>Do amor que guardei. Do amor que sonhei.</p>\n<p>Porque tão somente és, como te tornas a ser o que jamais fui e o que jamais serei.</p>\n<p>Querido Lir.</p>",
+            "image": "https://cronicasdomar.pages.dev/media/posts/7/garrafa.webp",
+            "author": {
+                "name": "Anthuan Sousa"
+            },
+            "tags": [
+                   "Deriva"
+            ],
+            "date_published": "2026-06-22T22:55:46-03:00",
+            "date_modified": "2026-06-23T01:58:46-03:00"
+        },
+        {
+            "id": "https://cronicasdomar.pages.dev/posts/elefante-branco/",
+            "url": "https://cronicasdomar.pages.dev/posts/elefante-branco/",
             "title": "Elefante Branco",
-            "summary": "— Eu te amo — disse ele ao meu ouvido antes de soltar minha mão e correr para seu ônibus. A minha reação foi de completa alegria e medo. Não pude dizer o que sentia, mesmo que por um momento. Abdiquei de dizer o que&hellip;",
+            "summary": "— Eu te amo — disse ele ao meu ouvido antes de soltar minha mão e correr para seu ônibus. A minha reação foi de completa alegria e medo. Não pude dizer o que sentia, mesmo que por um momento. Abdiquei de dizer o que queria ter dito. Como no filme Efeito Borboleta, eu teria&hellip;",
             "content_html": "<div style=\"text-align: center;\">\n  <img loading=\"lazy\" src=\"https://www.dropbox.com/scl/fi/topewiaun219zwvixzksa/divis-ria.png?rlkey=39jammnhf3cdsrzq97dgd9qp8&st=l8qznnx4&raw=1\" alt=\"Divisória\" style=\"max-width: 100%; height: auto;\"  data-is-external-image=\"true\">\n</div>\n\n<p><span style=\"font-size: 2em;\">— E</span>u te amo — disse ele ao meu ouvido antes de soltar minha mão e correr para seu ônibus.</p>\n\n<p>A minha reação foi de completa alegria e medo. Não pude dizer o que sentia, mesmo que por um momento. Abdiquei de dizer o que queria ter dito. Como no filme Efeito Borboleta, eu teria feito diferente? Talvez.</p>\n\n<p>Não sei quais são os desígnios que a vida tem para nós. Tudo pode acontecer. Mas eu sabia que em algum momento eu ia me arrepender de não ter proferido as palavras em retorno.</p>\n\n<p>Palavras são como feitiços. A mais primitiva e analógica forma de se expressar pelo som tem o poder de mover multidões.</p>\n\n<p>E naquele dia você me enfeitiçou. Para ser mais honesto, eu já estava enfeitiçado. Eu te amei desde o dia em que te vi pela primeira vez.</p>\n\n<p>A caminhada, o mar, a brisa, o luar. Foi como se o mundo tivesse finalmente orquestrado um momento perfeito para uma pessoa perfeita.</p>\n\n<p>Como se dissesse: — Você esperou muito por esse dia, agora ele será seu.</p>\n\n<p>E eu acreditei. Acreditei com todas as minhas forças que você seria a luz que eu precisava.</p>\n\n<p>Mas algo me incomodava. Nosso amor nasceu nas trevas, mesmo sendo luz. E a natureza dessa relação me tirava de órbita.</p>\n\n<p>Eu te convidei para minha casa, mas ao abrir o quarto você notou que lá existiam outros inquilinos, demônios. Estes com os quais você não pôde lidar. E quer saber, tudo bem. Não é como se a vida não pregasse peças na gente. Não é todo mundo que se dispõe a se relacionar com um brinquedo quebrado.</p>\n\n<p>Você me colocou no porão, trancou a porta e jogou a chave. Um telefonema. Por um telefonema. Nem raiva consegui sentir. Seria em vão. Só me apeguei à ideia de que você poderia estar sofrendo do outro lado da porta, mesmo que distante.</p>\n\n<p>Na rua, no meu cotidiano, meu coração ardia ao passar por essa cidade fantasma. Repleta de memórias. O bar que frequentávamos, o canto onde esperava a aula começar, o banco em que deitei no teu colo para olhar o céu noturno.</p>\n\n<p>Você me disse \"eu te amo\" e acreditei, acreditei com todas as minhas forças que não me esforcei para fingir o que não sentia. E a verdade do que sinto e do que sempre vou sentir é que aqui dentro há um oceano vivo e profundo, crescendo a cada dia. Minha intenção não foi te afogar nele.</p>\n\n<p>Por muito tempo eu velei o túmulo de um relacionamento com o caixão vazio. Não pude te ver. Minha única ressalva foi que eu te amei com tudo o que tinha.</p>\n\n<p>Te amei mais que a mim, estranho.</p>\n\n<p>Mais que a mim.</p>\n\n<div style=\"text-align: center;\">\n  <img loading=\"lazy\" src=\"https://www.dropbox.com/scl/fi/topewiaun219zwvixzksa/divis-ria.png?rlkey=39jammnhf3cdsrzq97dgd9qp8&st=l8qznnx4&raw=1\" alt=\"Divisória\" style=\"max-width: 100%; height: auto;\"  data-is-external-image=\"true\">\n</div>",
             "image": "https://cronicasdomar.pages.dev/media/posts/6/7596ac69e6f4938a44badd8.png",
             "author": {
@@ -23,7 +87,7 @@
                    "Deriva"
             ],
             "date_published": "2026-06-21T19:19:52-03:00",
-            "date_modified": "2026-06-22T02:12:08-03:00"
+            "date_modified": "2026-06-22T23:50:02-03:00"
         }
     ]
 }
