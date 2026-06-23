@@ -40,8 +40,12 @@
   .podcast-title:hover { color: #e3e2db !important; }
 
   /* === 5. DESIGN EDITORIAL DO CARROSSEL === */
+  /* Removemos o cursor de 'grab' global para o desktop ficar com a seta padrão e limpa */
   .custom-carousel-container { position: relative; width: 100%; overflow: hidden; background: #111; border-radius: 8px; border: 1px solid #1c1c1c; }
-  .custom-carousel-track { display: flex; transition: transform 0.5s cubic-bezier(0.25, 1, 0.5, 1) !important; width: 100%; }
+  .custom-carousel-track { display: flex; transition: transform 0.5s cubic-bezier(0.25, 1, 0.5, 1); width: 100%; }
+  
+  /* O modo dragging agora só existe no toque mobile */
+  .custom-carousel-track.dragging { transition: none !important; }
   
   .carousel-slide { position: relative; width: 100% !important; flex-shrink: 0 !important; margin: 0 !important; padding: 0 !important; box-sizing: border-box; overflow: hidden; }
   .carousel-image-wrap { width: 100%; height: 440px; overflow: hidden; }
@@ -51,38 +55,20 @@
 
   .carousel-text-overlay.feed__content { 
     position: absolute !important; 
-    top: 0 !important;
-    left: 0 !important; 
-    right: 0 !important;
-    bottom: 0 !important;
-    width: 100% !important; 
-    max-width: 100% !important; 
-    min-width: 100% !important;
-    height: 100% !important;
+    top: 0 !important; left: 0 !important; right: 0 !important; bottom: 0 !important;
+    width: 100% !important; max-width: 100% !important; min-width: 100% !important; height: 100% !important;
     padding: 6rem 2.5rem 2.5rem 2.5rem !important; 
     background: linear-gradient(to top, rgba(16, 16, 16, 0.98) 0%, rgba(16, 16, 16, 0.5) 60%, rgba(16, 16, 16, 0.2) 100%) !important; 
-    text-align: left !important; 
-    box-sizing: border-box !important; 
-    z-index: 2 !important; 
-    margin: 0 !important;
-    float: none !important;
-    display: flex !important;
-    flex-direction: column !important;
-    justify-content: flex-end !important;
+    text-align: left !important; box-sizing: border-box !important; z-index: 2 !important; margin: 0 !important; float: none !important;
+    display: flex !important; flex-direction: column !important; justify-content: flex-end !important;
   }
   
   .carousel-text-overlay .feed__title { margin-top: 0 !important; margin-bottom: 0.5rem !important; }
   .carousel-text-overlay p { margin: 0 !important; max-width: 720px; }
 
-  /* TRUQUE SÊNIOR: Estica o link do título para cobrir 100% da área do gradiente e da imagem */
+  /* Esticamento perfeito do link sobre o gradiente */
   .carousel-text-overlay .feed__title a::after {
-    content: '';
-    position: absolute;
-    top: 0;
-    left: 0;
-    right: 0;
-    bottom: 0;
-    z-index: 3; /* Fica acima do texto e da imagem, mas abaixo dos botões de controle */
+    content: ''; position: absolute; top: 0; left: 0; right: 0; bottom: 0; z-index: 3;
   }
 
   .carousel-controls { position: absolute; top: 50%; left: 0; width: 100%; display: flex; justify-content: space-between; transform: translateY(-50%); padding: 0 1rem; box-sizing: border-box; pointer-events: none; z-index: 5; }
@@ -167,6 +153,61 @@ function initHeroCarousel() {
     startAutoplay();
   }
 
+  // === MOTOR DE SWIPE MOBILE EXCLUSIVO (TOUCH ONLY) ===
+  let startX = 0, startY = 0;
+  let currentX = 0, currentY = 0;
+  let isDragging = false;
+
+  function dragStart(e) {
+    isDragging = true;
+    clearInterval(autoplayTimer);
+    startX = e.touches[0].pageX;
+    startY = e.touches[0].pageY;
+    currentX = startX;
+    currentY = startY;
+    track.classList.add('dragging');
+  }
+
+  function dragMove(e) {
+    if (!isDragging) return;
+    currentX = e.touches[0].pageX;
+    currentY = e.touches[0].pageY;
+    
+    const diffX = currentX - startX;
+    const diffY = currentY - startY;
+
+    // Bloqueia o scroll vertical da página se o leitor estiver de fato passando o slide para o lado
+    if (Math.abs(diffX) > Math.abs(diffY)) {
+      if (e.cancelable) e.preventDefault();
+      const currentOffset = -currentIndex * container.clientWidth;
+      track.style.transform = `translateX(${currentOffset + diffX}px)`;
+    }
+  }
+
+  function dragEnd() {
+    if (!isDragging) return;
+    isDragging = false;
+    track.classList.remove('dragging');
+
+    const diffX = currentX - startX;
+    const threshold = container.clientWidth * 0.18; // 18% de arrasto ativa a passada
+
+    if (diffX < -threshold) {
+      updateCarousel((currentIndex + 1) % destaques.length);
+    } else if (diffX > threshold) {
+      updateCarousel((currentIndex - 1 + destaques.length) % destaques.length);
+    } else {
+      updateCarousel(currentIndex); // Snapback suave
+    }
+    resetAutoplay();
+  }
+
+  // Ouvintes de Toque vinculados apenas no Mobile
+  container.addEventListener('touchstart', dragStart, { passive: true });
+  container.addEventListener('touchmove', dragMove, { passive: false });
+  container.addEventListener('touchend', dragEnd);
+
+  // Botões de Setas Nativas (Desktop / Geral)
   const btnNext = container.querySelector('.carousel-next');
   const btnPrev = container.querySelector('.carousel-prev');
 
