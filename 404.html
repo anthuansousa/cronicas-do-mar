@@ -1,4 +1,4 @@
-<!DOCTYPE html><html lang="en-gb"><head><meta charset="utf-8"><meta http-equiv="X-UA-Compatible" content="IE=edge"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Error 404 - Crônicas do Mar</title><meta name="robots" content="noindex, follow"><meta name="generator" content="Publii Open-Source CMS for Static Site"><meta name="theme-color" content="#161616" media="(prefers-color-scheme: dark)"><meta name="theme-color" content="#111111" media="(prefers-color-scheme: light)"><meta name="msapplication-navbutton-color" content="#111111"><meta name="apple-mobile-web-app-status-bar-style" content="#111111"><link rel="alternate" type="application/atom+xml" href="https://cronicasdomar.pages.dev/feed.xml" title="Crônicas do Mar - RSS"><link rel="alternate" type="application/json" href="https://cronicasdomar.pages.dev/feed.json" title="Crônicas do Mar - JSON"><meta property="og:title" content="Crônicas do Mar"><meta property="og:image" content="https://cronicasdomar.pages.dev/media/website/g11.svg"><meta property="og:image:width" content="194"><meta property="og:image:height" content="112"><meta property="og:site_name" content="Crônicas do Mar"><meta property="og:description" content=""><meta property="og:url" content="https://cronicasdomar.pages.dev/"><meta property="og:type" content="website"><link rel="shortcut icon" href="https://cronicasdomar.pages.dev/media/website/favicon.png" type="image/png"><link rel="stylesheet" href="https://cronicasdomar.pages.dev/assets/css/style.css?v=df445e6cea2e10ff4719c27e2265f0c9"><script type="application/ld+json">{"@context":"http://schema.org","@type":"Organization","name":"Crônicas do Mar","logo":"https://cronicasdomar.pages.dev/media/website/g11.svg","url":"https://cronicasdomar.pages.dev/"}</script><noscript><style>img[loading] {
+<!DOCTYPE html><html lang="en-gb"><head><meta charset="utf-8"><meta http-equiv="X-UA-Compatible" content="IE=edge"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Error 404 - Crônicas do Mar</title><meta name="robots" content="noindex, follow"><meta name="generator" content="Publii Open-Source CMS for Static Site"><link rel="alternate" type="application/atom+xml" href="https://cronicasdomar.pages.dev/feed.xml" title="Crônicas do Mar - RSS"><link rel="alternate" type="application/json" href="https://cronicasdomar.pages.dev/feed.json" title="Crônicas do Mar - JSON"><meta property="og:title" content="Crônicas do Mar"><meta property="og:image" content="https://cronicasdomar.pages.dev/media/website/g11.svg"><meta property="og:image:width" content="194"><meta property="og:image:height" content="112"><meta property="og:site_name" content="Crônicas do Mar"><meta property="og:description" content=""><meta property="og:url" content="https://cronicasdomar.pages.dev/"><meta property="og:type" content="website"><link rel="shortcut icon" href="https://cronicasdomar.pages.dev/media/website/favicon.png" type="image/png"><link rel="stylesheet" href="https://cronicasdomar.pages.dev/assets/css/style.css?v=df445e6cea2e10ff4719c27e2265f0c9"><script type="application/ld+json">{"@context":"http://schema.org","@type":"Organization","name":"Crônicas do Mar","logo":"https://cronicasdomar.pages.dev/media/website/g11.svg","url":"https://cronicasdomar.pages.dev/"}</script><noscript><style>img[loading] {
                     opacity: 1;
                 }</style></noscript><style>/* === 1. TEMA E OVERRIDES NATIVOS === */
   .post-template .hero__image { display: none !important; }
@@ -126,6 +126,58 @@
     justify-content: flex-end !important;
     text-align: right !important;
     width: 100% !important;
+}
+    /* === 11. FORÇAR TEMA ESCURO GLOBALMENTE === */
+
+/* Fundo e cor base para todos os containers principais */
+html,
+body,
+.wrapper,
+.feed,
+.hero,
+.footer,
+.top,
+.navbar,
+.search__overlay,
+.search__overlay-inner,
+.post,
+.page,
+.feed__item,
+.feed__content,
+.custom-sidebar,
+.sidebar-widget,
+.podcast-item {
+    background-color: #161616 !important;
+    color: #e3e2db !important;
+}
+
+/* Força o fundo de inputs e campos de busca */
+input,
+textarea,
+select,
+#custom-search-input {
+    background-color: #1a1a1a !important;
+    color: #e3e2db !important;
+    border-color: #2a2a2a !important;
+}
+
+/* Links e textos clicáveis */
+a,
+a:visited {
+    color: #e3e2db !important;
+}
+a:hover {
+    color: #ffffff !important;
+}
+
+/* Remove bordas claras e padroniza como escuro */
+* {
+    border-color: #2a2a2a !important;
+}
+
+/* Caso algum elemento ainda tenha fundo branco, force transparência (exceto imagens) */
+body *:not(img):not(svg):not(iframe):not(input):not(textarea) {
+    background-color: transparent !important;
 }</style><script>document.addEventListener("DOMContentLoaded", function () {
   initSearch();
   initHeroCarousel();
