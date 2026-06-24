@@ -181,6 +181,66 @@ a:hover {
 .sidebar-widget h3,
 .custom-carousel-container {
     border-color: #2a2a2a !important;
+}
+    /* === 12. CORREÇÕES ESPECÍFICAS PARA MOBILE E ELEMENTOS PONTUAIS === */
+
+/* 1. Ícone de busca (lupa) - garante que o SVG fique visível */
+.search__btn .search-icon,
+.search__btn svg,
+.btn--icon svg,
+button svg use {
+    fill: #e3e2db !important;
+    stroke: #e3e2db !important;
+    color: #e3e2db !important;
+}
+
+/* 2. Botão de share (e seus ícones) */
+.post__share a,
+.post-share a,
+.share a,
+.share-buttons a,
+.content__share a,
+.post__share svg,
+.post-share svg,
+.share svg,
+.share-buttons svg,
+.content__share svg {
+    fill: #e3e2db !important;
+    stroke: #e3e2db !important;
+    color: #e3e2db !important;
+}
+
+/* 3. Capital letter (primeira letra dos posts) */
+.feed__content p::first-letter,
+.post-content p:first-of-type::first-letter,
+.page-content p:first-of-type::first-letter {
+    color: #e3e2db !important;
+    background-color: transparent !important; /* mantém o fundo escuro */
+}
+
+/* 4. Menu hambúrguer (mobile) - ícone de três traços */
+.navbar__toggle .navbar__toggle-inner,
+.navbar__toggle .navbar__toggle-inner::before,
+.navbar__toggle .navbar__toggle-inner::after {
+    background-color: #e3e2db !important;
+}
+
+/* 5. Botão "Voltar ao topo" */
+.footer__bttop svg {
+    fill: #e3e2db !important;
+    stroke: #e3e2db !important;
+}
+
+/* 6. Certifica que links dentro de feeds e posts tenham contraste */
+.feed__title a,
+.post-title a,
+.page-title a,
+.entry-title a {
+    color: #e3e2db !important;
+}
+.feed__title a:hover,
+.post-title a:hover {
+    color: #ffffff !important;
 }</style><script>document.addEventListener("DOMContentLoaded", function () {
   initSearch();
   initHeroCarousel();
