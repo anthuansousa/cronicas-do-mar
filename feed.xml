@@ -3,7 +3,7 @@
     <title>Crônicas do Mar</title>
     <link href="https://cronicasdomar.pages.dev/feed.xml" rel="self" />
     <link href="https://cronicasdomar.pages.dev" />
-    <updated>2026-06-25T23:12:52-03:00</updated>
+    <updated>2026-06-27T22:49:33-03:00</updated>
     <author>
         <name>Anthuan Sousa</name>
     </author>
@@ -14,8 +14,8 @@
         <author>
             <name>Anthuan Sousa</name>
         </author>
-        <link href="https://cronicasdomar.pages.dev/posts/atualizacao-10/"/>
-        <id>https://cronicasdomar.pages.dev/posts/atualizacao-10/</id>
+        <link href="https://cronicasdomar.pages.dev/posts/atualizacao-1-0/"/>
+        <id>https://cronicasdomar.pages.dev/posts/atualizacao-1-0/</id>
         <media:content url="https://cronicasdomar.pages.dev/media/posts/23/teclas.webp" medium="image" />
             <category term="Logs"/>
 
@@ -23,29 +23,10 @@
             <summary type="html">
                 <![CDATA[
                         <img src="https://cronicasdomar.pages.dev/media/posts/23/teclas.webp" alt="Close-up em preto e branco de teclas metálicas de uma máquina de escrever antiga, com várias letras visíveis e fundo escuro desfocado." />
-                    Nesse mês chegamos ao aniversário de 1 ano do Crônicas do Mar, um projeto singelo que teve um impacto muito positivo na vida deste autor que vos fala. Sempre gostei de escrever, mas foi uma descoberta muito boa poder solidificar e eternizar meus textos em um lugar meu, de um jeitinho público-particular. Dentre tantas coisas&hellip;
+                    Atualização feita na antiga plataforma. Nesse mês chegamos ao aniversário de 1 ano do Crônicas do Mar, um projeto singelo que teve um impacto muito positivo na vida deste autor que vos fala. Sempre gostei de escrever, mas foi uma descoberta muito boa poder solidificar e eternizar meus textos em um lugar meu, de um&hellip;
                 ]]>
             </summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://cronicasdomar.pages.dev/media/posts/23/teclas.webp" class="type:primaryImage" alt="Close-up em preto e branco de teclas metálicas de uma máquina de escrever antiga, com várias letras visíveis e fundo escuro desfocado." /></p>
-                <p>Nesse mês chegamos ao aniversário de 1 ano do Crônicas do Mar, um projeto singelo que teve um impacto muito positivo na vida deste autor que vos fala. Sempre gostei de escrever, mas foi uma descoberta muito boa poder solidificar e eternizar meus textos em um lugar meu, de um jeitinho público-particular. Dentre tantas coisas que já faço (de forma aleatória) é um prazer muito grande poder tocar esse espaço pra frente.</p>
-<p>Cada texto, detalhe e visual do site foi pensado com muito carinho e feito pelas minhas próprias mãos (com exceção das fotos que ajudam na composição dos textos, que foram feitas com geração de IA, o que me faz pensar em reformular isso no futuro) pra proporcionar imersão e fazer o leitor sentir coesão com a minha escrita e o ambiente de leitura.</p>
-<p>Como um projeto inteiramente pessoal, escrevo como um escritor amador. Não tenho esse projeto como fonte de renda (ainda mais por ele ser um grãozinho de feijão) mas os meus planos para o futuro (e quem sabe nesse ano ainda?) é de poder expandir o projeto para além. Para isso, com esse update criei algumas fundamentações importantes na estrutura do blogue, como ele se comporta e como posso expandir esse universo de crônicas de forma orgânica.</p>
-<p>Dito isso, em comemoração ao aniversário de 1 ano do blogue, trago muitas melhorias, implementações e novidades:</p>
-<ul>
-<li><strong>Identidade:</strong> mudança de nome do blogue de Crônicas da Maré para Crônicas do Mar. Essa mudança foi importante sob a perspectiva de como a url do blogue era lida;</li>
-<li><strong>Ícones das redes:</strong> substituição dos nomes em texto por ícones minimalistas transparentes (Mastodon, Pixelfed e Signal), ajustados e centralizados para garantir um acabamento limpo;</li>
-<li><strong>Selo Creative Commons:</strong> implementação do selo oficial CC BY-SA 4.0 para fundamentação jurídica das minhas criações;</li>
-<li><strong>Rodapé global:</strong> automatização da exibição dos ícones e do selo em todas as publicações;</li>
-<li><strong>Ocultar upvote:</strong> desativação completa do botão de upvote nativo via CSS, eliminando o aspecto de rede social e assegurando uma estética mais limpa;</li>
-<li><strong>Transição de páginas:</strong> transformação dos links de texto de post anterior e próximo em botões de setas personalizadas, deixando mais a cara do blogue;</li>
-<li><strong>Feeds RSS e distribuição:</strong> organização e segmentação de feeds RSS por tags para otimizar a distribuição de conteúdo e automatizar postagens em um bot no Mastodon;</li>
-</ul>
-<p>Além disso, agradeço à plataforma do Bear Blog por permitir hospedar meu projeto de maneira inteiramente gratuita, e aos poucos leitores que possuo pelos incentivos e elogios.</p>
-<p>Tem coisa boa vindo aí.</p>
-            ]]>
-        </content>
+        <content></content>
     </entry>
     <entry>
         <title>A viagem</title>
@@ -64,21 +45,7 @@
                     Aquela solidão que sentia não era de toda ingrata naquele momento, era sobretudo uma sombra do seu antigo eu, um antigo pequenino. E de mãos dadas permaneceram, depois de dias, contemplando o infinito, o céu azul e a vida em sua mais pura forma e esplendor. De mãos dadas… Foi assim que, por entre os&hellip;
                 ]]>
             </summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://cronicasdomar.pages.dev/media/posts/19/littleme.webp" class="type:primaryImage" alt="Silhouettes of two people sitting close together on a beach, gazing at the ocean under a cloudy sky." /></p>
-                <p class="dropcap">Aquela solidão que sentia não era de toda ingrata naquele momento, era sobretudo uma sombra do seu antigo eu, um antigo pequenino. E de mãos dadas permaneceram, depois de dias, contemplando o infinito, o céu azul e a vida em sua mais pura forma e esplendor.</p>
-<p>De mãos dadas…</p>
-<p>Foi assim que, por entre os feixes de luzes de sol, sentados na areia, eles entenderam que a vida é uma caminhada incerta. Decerto, o homem não esperava muito. Embora sua gentileza não falhasse, o mundo não se compadecia.</p>
-<p>Aquele olhar…</p>
-<p>Convencidos de que a realidade poderia acabar ali mesmo, convencidos de que voltaram pra casa, seu longínquo lar, há muito esquecido dentro daqueles sonhos de natal e aconchego… sonhos que apenas seu menino lembrava. Sonhos de carinho e aconchego, daqueles que te abraçam forte em dias de chuva e frio. Aqueles… aqueles sonhos com gosto de chocolate quente feito pelas mãos de vó.</p>
-<p>De mãos dadas…</p>
-<p>Foi como chegaram ali e da mesma forma, saíram... um só.</p>
-<p>No final, era somente disso que o homem precisava. Era a força para seguir determinado a encarar esse futuro de incertezas.</p>
-<p>Ali, consigo, ele fora feliz e realizado.</p>
-<p>De mãos dadas.</p>
-            ]]>
-        </content>
+        <content></content>
     </entry>
     <entry>
         <title>Um aviso metafísico</title>
@@ -97,43 +64,7 @@
                     Em 2016, perdi uma tia para o câncer. Nós a chamávamos de tia Santa — minha avó costumava chamá-la assim desde sempre. Estava no trabalho quando recebi a notícia. ​— Foi de repente — disseram. ​​Não chorei na hora. Recebi a notícia e disse que iria ao velório. Quando cheguei à casa, já preparada para&hellip;
                 ]]>
             </summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://cronicasdomar.pages.dev/media/posts/18/panelas.webp" class="type:primaryImage" alt="Panelas e utensílios de cozinha sobre um fogão, com uma panela no fogo soltando vapor." /></p>
-                <p class="dropcap">Em 2016, perdi uma tia para o câncer. Nós a chamávamos de tia Santa — minha avó costumava chamá-la assim desde sempre. Estava no trabalho quando recebi a notícia.</p>
-<p>​— Foi de repente — disseram.</p>
-<p>​​Não chorei na hora. Recebi a notícia e disse que iria ao velório. Quando cheguei à casa, já preparada para um último adeus, vi o caixão aberto com seu corpo velado para todos os vizinhos fazerem suas orações e se despedirem. Abracei meus tios. A lágrima desceu. Fiquei ali do lado, contemplando e gravando aquela imagem como um altar de despedida. Havia quase dois anos que não a via.</p>
-<p>​​Sendo bem honesto, a distância não me magoou. Cada um tem sua vida, mas um adeus forçado para o "nunca mais" é algo irreversível.</p>
-<p>​​Ela estava ali deitada, frágil e pálida.</p>
-<p>​​— Fizeram um bom trabalho — disse a mim mesmo.</p>
-<p>​​Orações feitas e despedidas dadas, seguimos em procissão.</p>
-<p>​Nós a sepultamos.</p>
-<p>​Foi um adeus digno.</p>
-<p>​​A história dela teve momentos difíceis e bem desafiadores. Talvez em outro momento eu possa compartilhar. Quem sabe um dia.</p>
-<p>​​Quase uma semana depois, durmo em minha casa e, em sonho, acordo na casa do meu pai. A fumaça da panela de pressão e o cheiro da comida fumegante no fogão me fizeram perguntar sobre o almoço. A luz que pairava pela porta da cozinha era tênue e convidativa, como as primeiras luzes do amanhecer.</p>
-<p>​​Até que, num estalo de memória, indago à minha madrasta:</p>
-<p>​​— Como está a tia Santa? Ela tá bem? Queria muito falar com ela.</p>
-<p>​​— Você não sabe? Ela está te esperando lá na mesa do quintal para tomar café com um bolo que ela fez.</p>
-<p>​​— Menina, pois vou lá que eu estou morrendo de fome.</p>
-<p>​​Passei pela porta. Chegando ao fundo do quintal, puxo a cadeira e me sento. Tia Santa sai sorridente trazendo um bolo, e dou um abraço forte nela. Ela me serve café, cujo aroma entra de forma intensa pelas narinas, me fazendo apreciar cada segundo daquele momento.</p>
-<p>​​Depois de conversarmos amenidades, ela disse que precisava falar muito sério comigo:</p>
-<p>​​— Anthuan, eu preciso te dizer algo para te preparar. Neste ano, muitas coisas ruins vão acontecer com você. E você vai precisar ser muito forte para enfrentar tudo o que virá.</p>
-<p>​​— O que vai acontecer, tia Santa?</p>
-<p>​​— Não me é permitido falar... mas queria me despedir.</p>
-<p>​​— A senhora vai viajar?</p>
-<p>​​— Vou.</p>
-<p>​​Ela me deu outro abraço. Um abraço tão caloroso que senti meu corpo inteiro esquentar. Como quando estamos com muito frio à noite e alguém nos agasalha sem sabermos. Aquele quentinho de quando tomamos um chocolate quente no inverno. Senti-me acolhido e amado.</p>
-<p>​​De repente, aquele mundo colapsou. Lembrei que ela havia falecido... e acordei.</p>
-<p>​​Levantei como se tivesse despertado de um sono de mil sonhos. Falei com a minha mãe a respeito. Esperamos.</p>
-<p>​​No mesmo mês, tive vários problemas de saúde. Uma infecção estomacal muito forte que durou semanas. Em uma das visitas à Unidade de Atendimento contraí catapora com 24 anos. Tive febres avassaladoras, delírios com meu gato fujão, fiquei com a fisionomia monstruosa repleto de pústulas pelo rosto e corpo. Lembro de ficar de quarentena por uns 15 dias até poder melhorar. Voltando ao trabalho fui demitido.</p>
-<p>​Mal me recuperei, tive uma crise de apendicite, com o apêndice já infeccionando. Passei 7 dias internado em um mini hospital, o clima era de guerra. Fiquei numa ala com pessoas sofrendo e morrendo ao meu lado. O calor insuportável e um ventilador apenas. Foi um pesadelo. Foi um tempo que fiquei só, sem ninguém me acompanhando.</p>
-<p>​Minha mãe estava desempregada e ainda me recuperando da cirurgia, passamos maus bocados por um bom tempo e, no início de 2017, fiz meu transplante de córnea e as coisas foram voltando pro seu lugar.</p>
-<p>​​Mas a todo momento eu recordava as palavras que a tia Santa havia proferido, o que me fazia sempre lembrar dela.</p>
-<p>​​Aquela fase passou, mas foram as palavras dela que me deram forças para continuar, na certeza de que tudo aquilo iria acabar.</p>
-<p>​Não sou religioso e talvez nem acredite na espiritualidade como acho que um dia acreditei, mas tenho certeza de que aquele foi o presente que ela me deixou:</p>
-<p>​​Um aviso metafísico.</p>
-            ]]>
-        </content>
+        <content></content>
     </entry>
     <entry>
         <title>Ecos da madrugada</title>
@@ -149,20 +80,10 @@
             <summary type="html">
                 <![CDATA[
                         <img src="https://cronicasdomar.pages.dev/media/posts/17/alone.webp" alt="A solitary figure sits on the beach, gazing at the turbulent waves under a cloudy sky." />
-                    Às vezes a solidão é aterradora. Essa noite fria, Solidão latente Na alma descontente. No meu ser ecoa, Reverberando para um profundo vazio Naquilo que jaz um eu não nascido, Um eu não vivido. E nesse encanto desencanto Vou vivendo as disforias do meu viver... O recanto do lamento E o altar da escassez. E&hellip;
+                    Às vezes a solidão é aterradora Essa noite fria Solidão latente Na alma descontente No meu ser ecoa Reverberando para um profundo vazio Naquilo que jaz um eu não nascido Um eu não vivido E nesse encanto desencanto Vou vivendo as disforias do meu viver... O recanto do lamento E o altar da escassez E&hellip;
                 ]]>
             </summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://cronicasdomar.pages.dev/media/posts/17/alone.webp" class="type:primaryImage" alt="A solitary figure sits on the beach, gazing at the turbulent waves under a cloudy sky." /></p>
-                <p>Às vezes a solidão é aterradora.<br>Essa noite fria,<br>Solidão latente<br>Na alma descontente.</p>
-<p>No meu ser ecoa,<br>Reverberando para um profundo vazio<br>Naquilo que jaz um eu não nascido,<br>Um eu não vivido.</p>
-<p>E nesse encanto desencanto<br>Vou vivendo as disforias do meu viver...<br>O recanto do lamento<br>E o altar da escassez.</p>
-<p>E assim...<br>Como um sopro...<br>Como um lamento...</p>
-<p>Esvaneço entre palavras não ditas<br>E experiências não vividas,<br>Num mundo de desalento e ilusões.</p>
-<p>Morro,<br>Permaneço.</p>
-            ]]>
-        </content>
+        <content></content>
     </entry>
     <entry>
         <title>Máscara</title>
@@ -181,25 +102,7 @@
                     Honestamente, odeio ter que fingir. Odeio interpretar um papel que não é meu. Um papel dado a mim ao nascer. Ser o protagonista da própria história, mesmo que de maneira forçada, tem o seu preço... O drama é extra. O espetáculo nunca acaba e o aplauso nunca vem. Um dia, super-homem; no outro, mendigo. Qual&hellip;
                 ]]>
             </summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://cronicasdomar.pages.dev/media/posts/16/circus.webp" class="type:primaryImage" alt="A lonely chair sits on the beach next to a mask and a discarded garment, with waves crashing in the background." /></p>
-                <p>Honestamente, odeio ter que fingir.</p>
-<p>Odeio interpretar um papel que não é meu.</p>
-<p>Um papel dado a mim ao nascer.</p>
-<p>Ser o protagonista da própria história, mesmo que de maneira forçada, tem o seu preço...</p>
-<p>O drama é extra.</p>
-<p>O espetáculo nunca acaba e o aplauso nunca vem.</p>
-<p>Um dia, super-homem; no outro, mendigo.</p>
-<p>Qual o próximo papel?</p>
-<p>Cada linha, cada fala. Tudo programado e forjado num papel escrito na alma-coração.</p>
-<p>Quando me perdi de mim? Quando me perdi daquela criança jogada no palco, no picadeiro?</p>
-<p>O chicote bate e o show continua...</p>
-<p>Já não lembro mais...não lembro quem queria ser.</p>
-<p>Não lembro.</p>
-<div class="navegacao-posts"> <a class="next-post" href="https://cronicasdomar.bearblog.dev/gravidade-lyrics" title="gravidade (lyrics)"></a></div>
-            ]]>
-        </content>
+        <content></content>
     </entry>
     <entry>
         <title>De repente 30 Parte I</title>
@@ -218,27 +121,7 @@
                     “Trinta é a idade do sucesso.” Foi o que eu ouvi quando criança no filme De Repente 30, uma comédia romântica estrelada pela Jennifer Garner e Mark Ruffalo, ambos no auge da beleza (minha opinião, tá?). E acreditei demais, com todas as minhas forças que de alguma forma o destino, a sociedade, o sistema -&hellip;
                 ]]>
             </summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://cronicasdomar.pages.dev/media/posts/21/escrita.webp" class="type:primaryImage" alt="Mão apoiada segunrando uma pena para escrever." /></p>
-                <p>“Trinta é a idade do sucesso.”</p>
-<p>Foi o que eu ouvi quando criança no filme De Repente 30, uma comédia romântica estrelada pela Jennifer Garner e Mark Ruffalo, ambos no auge da beleza (minha opinião, tá?). E acreditei demais, com todas as minhas forças que de alguma forma o destino, a sociedade, o sistema - seja lá o que você acredita - me levaria para o sucesso de forma automática e eu não precisaria me preocupar com nada. Para uma criança que, de forma boa ou ruim, tem suas necessidades básicas atendidas, essa realidade seria super plausível.</p>
-<div><img loading="lazy" src="https://www.dropbox.com/scl/fi/jvmc88aj7cgsx8i0ajra2/13going-on-thirty-13going-on30.gif?rlkey=etxf9mp0ivqf5p5qtiasyg5qn&amp;st=d5dj884v&amp;raw=1" alt="GIF animado mostrando uma mulher vista de costas dançando em uma festa. Ela veste uma roupa de alcinha com listras horizontais largas em azul claro e verde neon. Enquanto dança movendo os quadris, ela mantém o braço esquerdo levantado, fazendo um sinal de 'joinha' (polegar para cima). Ao lado direito, um homem de camisa azul também está dançando. O ambiente é escuro com luzes de balada." data-is-external-image="true"></div>
-<p>Era sempre sobre isso que éramos bombardeados pelas produções americanas. Que o sucesso era garantido e que o sol nasceu pra todos.</p>
-<p>Não tardou muito pra eu perceber, já na adolescência, que a realidade era bem mais severa e desigual. Mesmo estudando pro técnico, ensino médio, curso de línguas, Enem e estagiando (tudo ao mesmo tempo) eu não consegui muita coisa.</p>
-<div><img loading="lazy" src="https://www.dropbox.com/scl/fi/wa6qltg4oa6yl6ixqoip3/ahh-wow.gif?rlkey=55zdpqdzg3aokur1h341h0dre&amp;st=bz848zzm&amp;raw=1" alt="GIF da atriz Jennifer Garner no filme 'De Repente 30'. Ela aparece com uma expressão de confusão e choque, olhando para os lados com a boca entreaberta, parecendo desorientada. Ela usa uma máscara de dormir listrada (nas cores rosa, roxo e azul) puxada para cima na testa. Ao fundo, há um espelho que reflete suas costas." data-is-external-image="true"></div>
-<p>Terminei meu ensino médio e devido a pressões externas e muita ansiedade decidi receber uma bolsa de 100% em uma faculdade pelo Prouni. Cursei, trabalhei na área, levei rasteira e terminei na estaca zero.</p>
-<p>Entendi que talvez eu precisasse fazer uma pós-graduação na minha área na época, que era turismo. A coordenadora do meu curso, falecida, foi a primeira a dizer que a pós não era pra qualquer um. Foi quando tive a brilhante ideia de fazer um MBA em outra universidade na área administrativa. Pra que MEU DEUS? Fiz minha matrícula na fé sem nenhum tostão no bolso e fui. Nesse meio período consegui um emprego de telemarketing (quero morrer) pra custear meu curso que era quase um salário inteiro.</p>
-<p>Nesse período fiquei muito doente da cabeça: engordei demais, todo dia tinha cliente me chamando de lixo (a gente escuta tanto que acaba acreditando) e muitos outros assédios de pessoas e da empresa. Nessa época passei um ano ou mais com apenas uma calça e morria de vergonha de ir com ela todo santo dia pra aula.</p>
-<p>Muito esforço pra que? Pra nada mais uma vez né? Esse joguinho de tentativa e erro tava dando ruim demais. Acabou que fui demitido, terminei o curso mas devendo e sem um diploma na mão. Que delícia, não é mesmo?</p>
-<p>Senta aí que tem mais. Tem muitos mais traumas envolvidos, mas o foco de hoje é outro.</p>
-<div><img loading="lazy" src="https://www.dropbox.com/scl/fi/i9uv3hul8cxmsok83tpqb/mark-ruffalo-smiling.gif?rlkey=qlozzuyfi2tw4ixlmjg0wi3ty&amp;st=p9jcirgw&amp;raw=1" alt="GIF animado mostrando o ator Mark Ruffalo rindo genuinamente durante uma entrevista. Ele está sentado em uma sala com quadros na parede ao fundo, usando uma jaqueta preta. Ele balança os ombros enquanto ri e olha para fora da câmera." data-is-external-image="true"></div>
-<p>Andando de ônibus eu vi um cartaz de um cursinho pré vestibular - um projeto de extensão maravilhoso da faculdade de medicina da Universidade Federal do Ceará que promove uma preparação para alunos de baixa renda - chamado XII de Maio. Eu olhei e fiquei pensando se aquela poderia ser a virada de chave que estava faltando na minha vida.</p>
-<p>Fiz a inscrição, era pago e não tinha um centavo no bolso, pedi emprestado (umas das pouquíssimas vezes na minha vida). Pra minha surpresa ainda era uma pré inscrição para fazer uma seleção. Mais uma vez fui na fé. Estudei e fui fazer a prova, era na UFC. Chegando lá eu disse que ainda ia estudar lá.</p>
-<p>Sentei, li, respondi, calculei, respondi. Saindo de lá já não acreditava em mais nada. Eu tinha ido só com uma caneta e um sonho (o meme é real risos). Eu chorei copiosamente da faculdade até a minha casa. No mesmo dia ia sair o resultado e pra minha surpresa eu passei. Mas eu mal sabia que era apenas o prelúdio do prelúdio do tanto que eu ainda tinha que lutar e do que eu ainda ia passar.</p>
-<p>Continua…</p>
-            ]]>
-        </content>
+        <content></content>
     </entry>
     <entry>
         <title>Identidade</title>
@@ -257,29 +140,7 @@
                     A vida é um vórtex infinito, quanto mais paro para pensar sobre ela mais chego a uma conclusão inconclusiva. O amor, o ódio, a paixão, a paz, a guerra, a vaidade, a singularidade, a alegria, a dor, a tristeza são aspectos de nossa natureza que me prendem na percepção de que somos apenas máquinas biológicas&hellip;
                 ]]>
             </summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://cronicasdomar.pages.dev/media/posts/15/void.webp" class="type:primaryImage" alt="A dramatic black and white image depicting a swirling vortex in a turbulent ocean under stormy skies with lightning." /></p>
-                <p class="dropcap">A vida é um vórtex infinito, quanto mais paro para pensar sobre ela mais chego a uma conclusão inconclusiva.</p>
-<p>O amor, o ódio, a paixão, a paz, a guerra, a vaidade, a singularidade, a alegria, a dor, a tristeza são aspectos de nossa natureza que me prendem na percepção de que somos apenas máquinas biológicas em expansão.</p>
-<p>Perfeitas e imperfeitas em suas feições e práticas.</p>
-<p>Busco a mim quando busco a ti.</p>
-<p>Busco a ti quando não penso em mim.</p>
-<p>Quando não estou aqui.</p>
-<p>Quem é você?</p>
-<p>Quem eu vejo no reflexo?</p>
-<p>Qual a tua identidade e o que fazes aqui, dentro de mim?</p>
-<p>Por vezes tentei te decifrar, te analisar, te ver e consertar.</p>
-<p>Mas nenhuma análise - ou psicanálise - me ajudou a te entender por completo mesmo estando tão próximo.</p>
-<p>São mistérios do que significa ser um ser humano.</p>
-<p>Porque desistimos de ser quem somos e abraçamos um vazio em busca de mais vazio, um conforto e um afeto que não tem, que não há, que ninguém viu ou verá?</p>
-<p>Quem você é?</p>
-<p>Quem você é depois que em casa está?</p>
-<p>Quem é você quando a vaidade se esvai?</p>
-<p>Quem é?</p>
-<p>Você?</p>
-            ]]>
-        </content>
+        <content></content>
     </entry>
     <entry>
         <title>Atualização 0.2</title>
@@ -295,38 +156,18 @@
             <summary type="html">
                 <![CDATA[
                         <img src="https://cronicasdomar.pages.dev/media/posts/22/teclas.webp" alt="Close-up em preto e branco de teclas metálicas de uma máquina de escrever antiga, com várias letras visíveis e fundo escuro desfocado." />
-                    Nesses dias estava pensando sobre a importância desse blogue para mim e como esse projeto pessoal está impactando na minha vida. Ele começou mesmo como um santuário/caixinha de espiação das coisas que eu sinto. Isso me ajudou a lidar com algumas coisas que eu estava sentindo e continua me ajudando a expressar e tirar do&hellip;
+                    Atualização feita na antiga plataforma. Nesses dias estava pensando sobre a importância desse blogue para mim e como esse projeto pessoal está impactando na minha vida. Ele começou mesmo como um santuário/caixinha de espiação das coisas que eu sinto. Isso me ajudou a lidar com algumas coisas que eu estava sentindo e continua me ajudando&hellip;
                 ]]>
             </summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://cronicasdomar.pages.dev/media/posts/22/teclas.webp" class="type:primaryImage" alt="Close-up em preto e branco de teclas metálicas de uma máquina de escrever antiga, com várias letras visíveis e fundo escuro desfocado." /></p>
-                <p>Nesses dias estava pensando sobre a importância desse blogue para mim e como esse projeto pessoal está impactando na minha vida. Ele começou mesmo como um santuário/caixinha de espiação das coisas que eu sinto. Isso me ajudou a lidar com algumas coisas que eu estava sentindo e continua me ajudando a expressar e tirar do peito algumas coisas que de certa forma não me fazem bem. É um ótimo exercício, de acordo com alguns psicólogos.</p>
-<p>Entre histórias que me vem à mente, prosas e poesias achei importante investir um pouco mais de tempo no formato do blogue e a única coisa que me veio à mente foi: "Porque não deixar o blogue como um livrinho de bolso."</p>
-<p>Sempre amei o minimalismo e com o blogue não poderia ser diferente. Levantei alguns pontos de melhoria e decidi colocar a mão na massa pra cumprir esse objetivo. Vamos mudar alguns aspectos aqui outros ali para deixar a experiência de quem ler melhor.</p>
-<p>Enquanto escrevo isso os pensamentos intrusivos sussurram: "Mas você vai ter a pachorra de escrever tudo isso quando teu blogue tem poucos textos?"</p>
-<p>- SIM!!!</p>
-<p>Enquanto eu estiver vivo esse blogue estará em construção, não quero ganhar uma premiação nem enlouquecer queimando neurônios pensando em deadlines ou se vou conseguir concluir amanhã ou próximo ano. O projeto tem como intuito ser despretencioso mesmo e sem pressão nenhuma. Nem tenho leitores ávidos - risos.</p>
-<p>Então abaixo, segue uma listinha dos aspectos que mudei no visual do blogue.</p>
-<p>Abraços.</p>
-<ul>
-<li><strong>Menu:</strong> decidi incluir um menu moderno fixo no topo que acompanha a rolagem da página para facilitar a transição entre os conteúdos. Além disso, foi adicionado um efeito de vidro, deixando o conteúdo que passe por ele desfocado;</li>
-<li><strong>Responsividade:</strong> foi feito o alinhamento visual tanto na versão mobile quanto na desktop;</li>
-<li><strong>Interatividade:</strong> agora temos um menu ativo, indicando pro leitor onde ele se encontra e imagens que saltam a passar o mouse;</li>
-<li><strong>Tipografia:</strong> a fonte Flamenco é linda demais mas uma leitura mais extensa com ela pode ser um pouco cansativa, então para os títulos ela continuará sendo utilizada. Para os textos a nova fonte será a Inter que é bem mais confortável e limpa;</li>
-<li><strong>Textura de papel:</strong> adicionei uma textura de ruído que simula um papel de verdade;</li>
-<li><strong>Outras coisinhas:</strong> citações melhores, imagens com cantos arredondados, separadores, notas de rodapé e polimento no código das demais publicações.</li>
-</ul>
-            ]]>
-        </content>
+        <content></content>
     </entry>
     <entry>
         <title>Bolhas de Sabão</title>
         <author>
             <name>Anthuan Sousa</name>
         </author>
-        <link href="https://cronicasdomar.pages.dev/posts/bolhas-de-sabao-2/"/>
-        <id>https://cronicasdomar.pages.dev/posts/bolhas-de-sabao-2/</id>
+        <link href="https://cronicasdomar.pages.dev/posts/bolhas-de-sabao/"/>
+        <id>https://cronicasdomar.pages.dev/posts/bolhas-de-sabao/</id>
         <media:content url="https://cronicasdomar.pages.dev/media/posts/14/bubles.webp" medium="image" />
             <category term="Deriva"/>
 
@@ -337,27 +178,15 @@
                     De que valem as palavras? Consegue ouvi-las? Aquecem teu coração? Ou flutuam como bolhas de sabão? Dispersas, coloridas e inebriantes no ar quente desse tempo de verão? A sombra, a luz, os risos, as crianças, o teu colo, o teu sorriso... o teu sorriso. Olhar de ressaca... Teus dedos languidos. Teu toque. O mundo nas&hellip;
                 ]]>
             </summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://cronicasdomar.pages.dev/media/posts/14/bubles.webp" class="type:primaryImage" alt="Clear bubbles float over a serene black-and-white beach scene with gentle waves lapping at the shore." /></p>
-                <p class="dropcap">De que valem as palavras? Consegue ouvi-las? Aquecem teu coração? Ou flutuam como bolhas de sabão? Dispersas, coloridas e inebriantes no ar quente desse tempo de verão?</p>
-<p>A sombra, a luz, os risos, as crianças, o teu colo, o teu sorriso... o teu sorriso.</p>
-<p>Olhar de ressaca...</p>
-<p>Teus dedos languidos. Teu toque. O mundo nas mãos... Deitado tremo.</p>
-<p>Amor e medo. Antídoto e veneno. Calor e frio.</p>
-<p>Um dia minhas palavras te alcançaram?</p>
-<p>Um dia você foi meu? Fez parte de mim como eu fiz parte de ti?</p>
-<p>Ou foi uma ideia tola evanescida como uma bolha de sabão?</p>
-            ]]>
-        </content>
+        <content></content>
     </entry>
     <entry>
         <title>Labirinto</title>
         <author>
             <name>Anthuan Sousa</name>
         </author>
-        <link href="https://cronicasdomar.pages.dev/posts/labirinto-2/"/>
-        <id>https://cronicasdomar.pages.dev/posts/labirinto-2/</id>
+        <link href="https://cronicasdomar.pages.dev/posts/labirinto/"/>
+        <id>https://cronicasdomar.pages.dev/posts/labirinto/</id>
         <media:content url="https://cronicasdomar.pages.dev/media/posts/20/escrita.webp" medium="image" />
             <category term="Edits"/>
 
@@ -368,102 +197,6 @@
                     Você já se sentiu em um loop do qual não conseguiu sair? Não sei mais como lidar com isso. — Semana que vem vai dar certo. Segunda, não é? — Não, mas para fazer isso eu preciso terminar aquilo. — E aquela dieta? Vai dar certo? — Só consigo treinar quando chegar em casa, mas&hellip;
                 ]]>
             </summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://cronicasdomar.pages.dev/media/posts/20/escrita.webp" class="type:primaryImage" alt="Mão apoiada segunrando uma pena para escrever." /></p>
-                <p class="dropcap">Você já se sentiu em um loop do qual não conseguiu sair? Não sei mais como lidar com isso.</p>
-<p>— Semana que vem vai dar certo. Segunda, não é?</p>
-<p>— Não, mas para fazer isso eu preciso terminar aquilo.</p>
-<p>— E aquela dieta? Vai dar certo?</p>
-<p>— Só consigo treinar quando chegar em casa, mas já chego tão cansado... Semana que vem eu começo. Semana que vem sem falta.</p>
-<p>E a surpresa? Nenhuma! Você já deve saber o resultado. Já me perguntei o motivo da sabotagem. Já pensei até o fato de que pode ser um mecanismo de recompensa interno.</p>
-<p>— Ora, a vida já é tão fodida, porque não aproveitar enquanto podemos? – é o que meu cérebro diria se ele falasse, talvez.</p>
-<p>Mas sabe qual o abalo? A verdade é que talvez eu não consiga definir uma meta pelo simples fato de não ver sentido em metas. De não achar que valha a pena. De não ter razão nem o porque. E de outras questões existenciais que vão muito além de uma automação de um processo inventado para alimentar um sistema inventado.</p>
-<p>Faz parecer que eu vivo descolado dessa realidade. Como se me visse do lado de fora de uma vitrine. Observando o manequim – eu. E para falar a verdade não sei se me jogaram para fora dessa loja, ou se andei pela porta por vontade própria. Sem chave e sem maçaneta.</p>
-<p>São forças de todas as vertentes contra a minha caminhada. Mas o cerne da minha questão é:</p>
-<p>— Pra que essa caminhada?</p>
-<p>— Porque eu só me sinto bem se me sentir bonito e desejado?</p>
-<p>— Porque eu tenho que alimentar esse sistema que me destrói? Que remove a minha identidade dia após dia?</p>
-<p>— Porque ser eu mesmo é uma inconveniência para quem me cerca?</p>
-<p>— Porque nós seres humanos não podemos viver bem sem nossas manias e apegos?</p>
-<p>— Porque eu, mesmo rejeitando tudo isso, me sinto bem em seguir dentro de uma bolha ao mesmo tempo que me sinto mal por estar nela?</p>
-<p>Ser quem eu sou não é facil. Os degraus, o caminho, a montanha estão ali para serem superados. Viver é o inferno.</p>
-<p>“O inferno são os outros.”</p>
-<p>É claro que cada um vive seu inferno particular. Mas sobre a dor de ser quem eu sou, só eu sei, soube e saberei.</p>
-<p>O que posso fazer, por ora é viver um dia de cada vez.</p>
-<p>Aceitar meus erros. Tropeçar e cair. Pra que no final dessa caminhada sem sentido, eu possa olhar para os meus joelhos e quem sabe, para cima, e ver que a caminhada não foi em vão.</p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Carta para Lir</title>
-        <author>
-            <name>Anthuan Sousa</name>
-        </author>
-        <link href="https://cronicasdomar.pages.dev/posts/carta-para-lir-2/"/>
-        <id>https://cronicasdomar.pages.dev/posts/carta-para-lir-2/</id>
-        <media:content url="https://cronicasdomar.pages.dev/media/posts/13/garrafa.webp" medium="image" />
-            <category term="Deriva"/>
-
-        <updated>2025-07-08T16:42:00-03:00</updated>
-            <summary type="html">
-                <![CDATA[
-                        <img src="https://cronicasdomar.pages.dev/media/posts/13/garrafa.webp" alt="A glass bottle floats in water, containing a rolled-up message inside, with droplets on its surface." />
-                    Querido Lir. Eu queria poder falar abertamente sobre as coisas das quais te invejo. Queria poder ter sua beleza. Queria poder exalar teu bom perfume. Queria poder me sobressair com o rosto não tão cansado assim. Queria poder. Queria poder. Invejo sua luz e sua leveza. Invejo sobre como você olha pela janela e vê&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://cronicasdomar.pages.dev/media/posts/13/garrafa.webp" class="type:primaryImage" alt="A glass bottle floats in water, containing a rolled-up message inside, with droplets on its surface." /></p>
-                <p>Querido Lir.</p>
-<p>Eu queria poder falar abertamente sobre as coisas das quais te invejo.</p>
-<p>Queria poder ter sua beleza.<br>Queria poder exalar teu bom perfume.<br>Queria poder me sobressair com o rosto não tão cansado assim.<br>Queria poder.<br>Queria poder.</p>
-<p>Invejo sua luz e sua leveza.<br>Invejo sobre como você olha pela janela e vê o colorido do mundo.<br>Invejo sobre como você sempre revida. Por não deixar a escuridão desse mundo te levar.</p>
-<p>Te invejo pelo sorriso frouxo.<br>Te invejo pela sua audácia.<br>Te invejo por se abraçar como és.<br>Te invejo.</p>
-<p>Por ventura, se um dia puder te cantar uma canção, que essa canção faça morada no teu coração. Porque essa carta, meu querido Lir, não possue outra coisa se não amor.</p>
-<p>Do amor que guardei. Do amor que sonhei.</p>
-<p>Porque tão somente és, como te tornas a ser o que jamais fui e o que jamais serei.</p>
-<p>Querido Lir.</p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Elefante Branco</title>
-        <author>
-            <name>Anthuan Sousa</name>
-        </author>
-        <link href="https://cronicasdomar.pages.dev/posts/elefante-branco/"/>
-        <id>https://cronicasdomar.pages.dev/posts/elefante-branco/</id>
-        <media:content url="https://cronicasdomar.pages.dev/media/posts/12/gaivotas.webp" medium="image" />
-            <category term="Deriva"/>
-
-        <updated>2025-06-24T16:41:00-03:00</updated>
-            <summary type="html">
-                <![CDATA[
-                        <img src="https://cronicasdomar.pages.dev/media/posts/12/gaivotas.webp" alt="Seagulls soar above a calm sea, with a distant horizon under a clear sky." />
-                    Eu te amo — disse ele ao meu ouvido antes de soltar minha mão e correr para seu ônibus. A minha reação foi de completa alegria e medo. Não pude dizer o que sentia, mesmo que por um momento. Abdiquei de dizer o que queria ter dito. Como no filme Efeito Borboleta, eu teria feito&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <p><img src="https://cronicasdomar.pages.dev/media/posts/12/gaivotas.webp" class="type:primaryImage" alt="Seagulls soar above a calm sea, with a distant horizon under a clear sky." /></p>
-                <p class="dropcap">Eu te amo — disse ele ao meu ouvido antes de soltar minha mão e correr para seu ônibus.</p>
-<p>A minha reação foi de completa alegria e medo. Não pude dizer o que sentia, mesmo que por um momento. Abdiquei de dizer o que queria ter dito. Como no filme Efeito Borboleta, eu teria feito diferente? Talvez.</p>
-<p>Não sei quais são os desígnios que a vida tem para nós. Tudo pode acontecer. Mas eu sabia que em algum momento eu ia me arrepender de não ter proferido as palavras em retorno.</p>
-<p>Palavras são como feitiços. A mais primitiva e analógica forma de se expressar pelo som tem o poder de mover multidões.</p>
-<p>E naquele dia você me enfeitiçou. Para ser mais honesto, eu já estava enfeitiçado. Eu te amei desde o dia em que te vi pela primeira vez.</p>
-<p>A caminhada, o mar, a brisa, o luar. Foi como se o mundo tivesse finalmente orquestrado um momento perfeito para uma pessoa perfeita.</p>
-<p>Como se dissesse: — Você esperou muito por esse dia, agora ele será seu.</p>
-<p>E eu acreditei. Acreditei com todas as minhas forças que você seria a luz que eu precisava.</p>
-<p>Mas algo me incomodava. Nosso amor nasceu nas trevas, mesmo sendo luz. E a natureza dessa relação me tirava de órbita.</p>
-<p>Eu te convidei para minha casa, mas ao abrir o quarto você notou que lá existiam outros inquilinos, demônios. Estes com os quais você não pôde lidar. E quer saber, tudo bem. Não é como se a vida não pregasse peças na gente. Não é todo mundo que se dispõe a se relacionar com um brinquedo quebrado.</p>
-<p>Você me colocou no porão, trancou a porta e jogou a chave. Um telefonema. Por um telefonema. Nem raiva consegui sentir. Seria em vão. Só me apeguei à ideia de que você poderia estar sofrendo do outro lado da porta, mesmo que distante.</p>
-<p>Na rua, no meu cotidiano, meu coração ardia ao passar por essa cidade fantasma. Repleta de memórias. O bar que frequentávamos, o canto onde esperava a aula começar, o banco em que deitei no teu colo para olhar o céu noturno.</p>
-<p>Você me disse "eu te amo" e acreditei, acreditei com todas as minhas forças que não me esforcei para fingir o que não sentia. E a verdade do que sinto e do que sempre vou sentir é que aqui dentro há um oceano vivo e profundo, crescendo a cada dia. Minha intenção não foi te afogar nele.</p>
-<p>Por muito tempo eu velei o túmulo de um relacionamento com o caixão vazio. Não pude te ver. Minha única ressalva foi que eu te amei com tudo o que tinha.</p>
-<p>Te amei mais que a mim, estranho.</p>
-<p>Mais que a mim.</p>
-            ]]>
-        </content>
+        <content></content>
     </entry>
 </feed>
