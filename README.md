@@ -2,6 +2,7 @@
 
 O **Crônicas do Mar** é um espaço autoral dedicado à publicação de crônicas poéticas, ensaios reflexivos e ficção (ou releituras da vida real). O projeto combina a leveza e a segurança de um gerador de sites estáticos com uma arquitetura de frontend totalmente customizada para entregar uma experiência de leitura imersiva, minimalista e focada na privacidade.
 
+
 ## 🚀 Implementações
 
 O projeto foi construído utilizando o **Publii CMS** como base estática, mas passou por um processo profundo de refatoração estrutural via JavaScript nativo (Vanilla JS) e CSS avançado para contornar as limitações do tema original:
@@ -12,7 +13,6 @@ O projeto foi construído utilizando o **Publii CMS** como base estática, mas p
 *   **Privacidade Absoluta por Padrão:** Arquitetura livre de cookies de rastreamento. Conta com modo avançado de privacidade para embeds de vídeo (Vimeo e YouTube Enhanced Privacy) e telemetria leve processada exclusivamente na borda (Edge) via Cloudflare.
 *   **SEO & Open Graph Customizados:** Metadados estruturados manualmente para garantir compartilhamentos otimizados em redes federadas e descentralizadas, como Mastodon e Bluesky.
 
----
 
 ## 🛠️ Tecnologias Utilizadas
 
@@ -22,7 +22,6 @@ O projeto foi construído utilizando o **Publii CMS** como base estática, mas p
 *   **Assets:** Inkscape
 *   **Ambiente de Testes:** Mozilla Firefox
 
----
 
 ## 🖋️ Autoria e Licença
 
