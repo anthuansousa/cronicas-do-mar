@@ -20,7 +20,9 @@ O projeto foi construído utilizando o **Publii CMS** como base estática, mas p
 
 *   **Core:** Publii CMS (Static Site Generator)
 *   **Linguagens:** HTML5, CSS3 Avançado (Grid, Flexbox, Animações) e Vanilla JavaScript (ES6+)
-*   **Hospedagem & CDN:** Cloudflare (Roteamento, Proxy e Analytics sem cookies)
+*   **Hospedagem & CDN:** Cloudflare Pages (Deploy automatizado via Git e Analytics sem cookies)
+*   **Assets:** Inkscape
+*   **Ambiente de Testes:** Mozilla Firefox
 
 ---
 
