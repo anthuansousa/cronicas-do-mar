@@ -1,4 +1,4 @@
-<!DOCTYPE html><html lang="pt-br"><head><meta charset="utf-8"><meta http-equiv="X-UA-Compatible" content="IE=edge"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Máscara - Crônicas do Mar</title><meta name="description" content="Honestamente, odeio ter que fingir."><meta name="generator" content="Publii Open-Source CMS for Static Site"><link rel="canonical" href="https://cronicasdomar.pages.dev/posts/mascara/"><link rel="alternate" type="application/atom+xml" href="https://cronicasdomar.pages.dev/feed.xml" title="Crônicas do Mar - RSS"><link rel="alternate" type="application/json" href="https://cronicasdomar.pages.dev/feed.json" title="Crônicas do Mar - JSON"><meta property="og:title" content="Máscara"><meta property="og:image" content="https://cronicasdomar.pages.dev/media/posts/16/circus.webp"><meta property="og:image:width" content="600"><meta property="og:image:height" content="338"><meta property="og:site_name" content="Crônicas do Mar - Crônicas Recentes"><meta property="og:description" content="Honestamente, odeio ter que fingir."><meta property="og:url" content="https://cronicasdomar.pages.dev/posts/mascara/"><meta property="og:type" content="article"><link rel="shortcut icon" href="https://cronicasdomar.pages.dev/media/website/favicon.png" type="image/png"><link rel="stylesheet" href="https://cronicasdomar.pages.dev/assets/css/style.css?v=6e35af49c9c5a90dd769f2a6caacb4c7"><script type="application/ld+json">{"@context":"http://schema.org","@type":"Article","mainEntityOfPage":{"@type":"WebPage","@id":"https://cronicasdomar.pages.dev/posts/mascara/"},"headline":"Máscara","datePublished":"2026-01-15T16:42-03:00","dateModified":"2026-06-27T22:45-03:00","image":{"@type":"ImageObject","url":"https://cronicasdomar.pages.dev/media/posts/16/circus.webp","height":338,"width":600},"description":"Honestamente, odeio ter que fingir.","author":{"@type":"Person","name":"Anthuan Sousa","url":"https://cronicasdomar.pages.dev/authors/anthuan-sousa/"},"publisher":{"@type":"Organization","name":"Anthuan Sousa","logo":{"@type":"ImageObject","url":"https://cronicasdomar.pages.dev/media/website/g11.svg","height":112,"width":194}}}</script><noscript><style>img[loading] {
+<!DOCTYPE html><html lang="pt-br"><head><meta charset="utf-8"><meta http-equiv="X-UA-Compatible" content="IE=edge"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Máscara - Crônicas do Mar</title><meta name="description" content="Honestamente, odeio ter que fingir."><meta name="generator" content="Publii Open-Source CMS for Static Site"><link rel="canonical" href="https://cronicasdomar.pages.dev/posts/mascara/"><link rel="alternate" type="application/atom+xml" href="https://cronicasdomar.pages.dev/feed.xml" title="Crônicas do Mar - RSS"><link rel="alternate" type="application/json" href="https://cronicasdomar.pages.dev/feed.json" title="Crônicas do Mar - JSON"><meta property="og:title" content="Máscara"><meta property="og:image" content="https://cronicasdomar.pages.dev/media/posts/16/circus.webp"><meta property="og:image:width" content="600"><meta property="og:image:height" content="338"><meta property="og:site_name" content="Crônicas do Mar - Crônicas Recentes"><meta property="og:description" content="Honestamente, odeio ter que fingir."><meta property="og:url" content="https://cronicasdomar.pages.dev/posts/mascara/"><meta property="og:type" content="article"><link rel="shortcut icon" href="https://cronicasdomar.pages.dev/media/website/favicon.png" type="image/png"><link rel="stylesheet" href="https://cronicasdomar.pages.dev/assets/css/style.css?v=6e35af49c9c5a90dd769f2a6caacb4c7"><script type="application/ld+json">{"@context":"http://schema.org","@type":"Article","mainEntityOfPage":{"@type":"WebPage","@id":"https://cronicasdomar.pages.dev/posts/mascara/"},"headline":"Máscara","datePublished":"2026-01-15T16:42-03:00","dateModified":"2026-06-30T20:14-03:00","image":{"@type":"ImageObject","url":"https://cronicasdomar.pages.dev/media/posts/16/circus.webp","height":338,"width":600},"description":"Honestamente, odeio ter que fingir.","author":{"@type":"Person","name":"Anthuan Sousa","url":"https://cronicasdomar.pages.dev/authors/anthuan-sousa/"},"publisher":{"@type":"Organization","name":"Anthuan Sousa","logo":{"@type":"ImageObject","url":"https://cronicasdomar.pages.dev/media/website/g11.svg","height":112,"width":194}}}</script><noscript><style>img[loading] {
                     opacity: 1;
                 }</style></noscript><style>/* === 1. TEMA E OVERRIDES NATIVOS === */
   .post-template .hero__image { display: none !important; }
@@ -160,6 +160,25 @@
 .page-template .content__entry {
     padding-top: 3rem !important; /* Ajuste este valor se quiser mais alto ou mais baixo */
     margin-top: 0 !important;
+}
+    /* === 13. REMOÇÃO DA LINHA NA PÁGINA DO AUTOR === */
+.author-template .hero,
+.author-template .hero__content,
+.author-template .page--author {
+  border: none !important;
+  border-bottom: none !important;
+  border-top: none !important;
+  box-shadow: none !important;
+}
+
+/* Desativa pseudo-elementos estruturais do tema nesta página */
+.author-template .hero::after,
+.author-template .hero::before,
+.author-template .hero__content::after,
+.author-template .hero__content::before {
+  display: none !important;
+  content: none !important;
+  background: none !important;
 }</style><script>document.addEventListener("DOMContentLoaded", function () {
   initSearch();
   initHeroCarousel();
@@ -308,7 +327,7 @@ function initLayout() {
   sidebar.innerHTML = `
     <div class="sidebar-widget">
         <h3>Crônicas do Mar</h3>
-        <p style="color: #666; font-size: 1rem;">Espaço de crônicas e releitura da vida real. Bem vindo (a)!</p></div>
+        <p style="color: #666; font-size: 1rem;">Um ecossistema de escrita focado na releitura da realidade através de diferentes vertentes e formatos.</p></div>
     <div class="sidebar-widget">
         <h3>Comunidade</h3>
 <ul class="sidebar-menu" style="list-style: none; padding: 0; margin: 0;"> 

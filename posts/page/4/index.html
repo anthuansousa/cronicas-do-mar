@@ -160,6 +160,25 @@
 .page-template .content__entry {
     padding-top: 3rem !important; /* Ajuste este valor se quiser mais alto ou mais baixo */
     margin-top: 0 !important;
+}
+    /* === 13. REMOÇÃO DA LINHA NA PÁGINA DO AUTOR === */
+.author-template .hero,
+.author-template .hero__content,
+.author-template .page--author {
+  border: none !important;
+  border-bottom: none !important;
+  border-top: none !important;
+  box-shadow: none !important;
+}
+
+/* Desativa pseudo-elementos estruturais do tema nesta página */
+.author-template .hero::after,
+.author-template .hero::before,
+.author-template .hero__content::after,
+.author-template .hero__content::before {
+  display: none !important;
+  content: none !important;
+  background: none !important;
 }</style><script>document.addEventListener("DOMContentLoaded", function () {
   initSearch();
   initHeroCarousel();
@@ -308,7 +327,7 @@ function initLayout() {
   sidebar.innerHTML = `
     <div class="sidebar-widget">
         <h3>Crônicas do Mar</h3>
-        <p style="color: #666; font-size: 1rem;">Espaço de crônicas e releitura da vida real. Bem vindo (a)!</p></div>
+        <p style="color: #666; font-size: 1rem;">Um ecossistema de escrita focado na releitura da realidade através de diferentes vertentes e formatos.</p></div>
     <div class="sidebar-widget">
         <h3>Comunidade</h3>
 <ul class="sidebar-menu" style="list-style: none; padding: 0; margin: 0;"> 
