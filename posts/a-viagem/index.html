@@ -1,6 +1,6 @@
-<!DOCTYPE html><html lang="pt-br"><head><meta charset="utf-8"><meta http-equiv="X-UA-Compatible" content="IE=edge"><meta name="viewport" content="width=device-width,initial-scale=1"><title>A viagem - Crônicas do Mar</title><meta name="description" content="Aquela solidão que sentia não era de toda ingrata naquele momento, era sobretudo uma sombra do seu antigo eu, um antigo pequenino. "><meta name="generator" content="Publii Open-Source CMS for Static Site"><link rel="canonical" href="https://cronicasdomar.pages.dev/posts/a-viagem/"><link rel="alternate" type="application/atom+xml" href="https://cronicasdomar.pages.dev/feed.xml" title="Crônicas do Mar - RSS"><link rel="alternate" type="application/json" href="https://cronicasdomar.pages.dev/feed.json" title="Crônicas do Mar - JSON"><meta property="og:title" content="A viagem"><meta property="og:image" content="https://cronicasdomar.pages.dev/media/posts/19/littleme.webp"><meta property="og:image:width" content="600"><meta property="og:image:height" content="338"><meta property="og:site_name" content="Crônicas do Mar - Crônicas Recentes"><meta property="og:description" content="Aquela solidão que sentia não era de toda ingrata naquele momento, era sobretudo uma sombra do seu antigo eu, um antigo pequenino. "><meta property="og:url" content="https://cronicasdomar.pages.dev/posts/a-viagem/"><meta property="og:type" content="article"><link rel="shortcut icon" href="https://cronicasdomar.pages.dev/media/website/favicon.png" type="image/png"><link rel="stylesheet" href="https://cronicasdomar.pages.dev/assets/css/style.css?v=6e35af49c9c5a90dd769f2a6caacb4c7"><script type="application/ld+json">{"@context":"http://schema.org","@type":"Article","mainEntityOfPage":{"@type":"WebPage","@id":"https://cronicasdomar.pages.dev/posts/a-viagem/"},"headline":"A viagem","datePublished":"2026-05-14T16:43-03:00","dateModified":"2026-06-27T22:47-03:00","image":{"@type":"ImageObject","url":"https://cronicasdomar.pages.dev/media/posts/19/littleme.webp","height":338,"width":600},"description":"Aquela solidão que sentia não era de toda ingrata naquele momento, era sobretudo uma sombra do seu antigo eu, um antigo pequenino. ","author":{"@type":"Person","name":"Anthuan Sousa","url":"https://cronicasdomar.pages.dev/authors/anthuan-sousa/"},"publisher":{"@type":"Organization","name":"Anthuan Sousa","logo":{"@type":"ImageObject","url":"https://cronicasdomar.pages.dev/media/website/g11.svg","height":112,"width":194}}}</script><noscript><style>img[loading] {
+<!DOCTYPE html><html lang="pt-br"><head><meta charset="utf-8"><meta http-equiv="X-UA-Compatible" content="IE=edge"><meta name="viewport" content="width=device-width,initial-scale=1"><title>A viagem - Crônicas do Mar</title><meta name="description" content="Aquela solidão que sentia não era de toda ingrata naquele momento, era sobretudo uma sombra do seu antigo eu, um antigo pequenino. "><meta name="generator" content="Publii Open-Source CMS for Static Site"><link rel="canonical" href="https://cronicasdomar.pages.dev/posts/a-viagem/"><link rel="alternate" type="application/atom+xml" href="https://cronicasdomar.pages.dev/feed.xml" title="Crônicas do Mar - RSS"><link rel="alternate" type="application/json" href="https://cronicasdomar.pages.dev/feed.json" title="Crônicas do Mar - JSON"><meta property="og:title" content="A viagem"><meta property="og:image" content="https://cronicasdomar.pages.dev/media/posts/19/littleme.webp"><meta property="og:image:width" content="600"><meta property="og:image:height" content="338"><meta property="og:site_name" content="Crônicas do Mar"><meta property="og:description" content="Aquela solidão que sentia não era de toda ingrata naquele momento, era sobretudo uma sombra do seu antigo eu, um antigo pequenino. "><meta property="og:url" content="https://cronicasdomar.pages.dev/posts/a-viagem/"><meta property="og:type" content="article"><link rel="shortcut icon" href="https://cronicasdomar.pages.dev/media/website/favicon.png" type="image/png"><link rel="stylesheet" href="https://cronicasdomar.pages.dev/assets/css/style.css?v=6e35af49c9c5a90dd769f2a6caacb4c7"><script type="application/ld+json">{"@context":"http://schema.org","@type":"Article","mainEntityOfPage":{"@type":"WebPage","@id":"https://cronicasdomar.pages.dev/posts/a-viagem/"},"headline":"A viagem","datePublished":"2026-05-14T16:43-03:00","dateModified":"2026-06-27T22:47-03:00","image":{"@type":"ImageObject","url":"https://cronicasdomar.pages.dev/media/posts/19/littleme.webp","height":338,"width":600},"description":"Aquela solidão que sentia não era de toda ingrata naquele momento, era sobretudo uma sombra do seu antigo eu, um antigo pequenino. ","author":{"@type":"Person","name":"Anthuan Sousa","url":"https://cronicasdomar.pages.dev/authors/anthuan-sousa/"},"publisher":{"@type":"Organization","name":"Anthuan Sousa","logo":{"@type":"ImageObject","url":"https://cronicasdomar.pages.dev/media/website/g11.svg","height":112,"width":194}}}</script><noscript><style>img[loading] {
                     opacity: 1;
-                }</style></noscript><style>/* === 1. TEMA E OVERRIDES NATIVOS === */
+                }</style></noscript><link rel="me" href="https://mastodon.social/@anthuansousa"><link rel="me" href="https://mastodon.social/@cronicasdomar"><style>/* === 1. TEMA E OVERRIDES NATIVOS === */
   .post-template .hero__image { display: none !important; }
   .post-template .hero__content { padding-top: 4rem !important; }
   .index-template .hero { display: none !important; }
@@ -348,25 +348,84 @@ function initLayout() {
 }
 
 function initSearch() {
+  const searchBtn = document.querySelector('.js-search-btn');
+  const searchOverlay = document.querySelector('.js-search-overlay');
   const overlayInner = document.querySelector('.search__overlay-inner');
-  if (!overlayInner) return;
-  overlayInner.innerHTML = `<input type="text" id="custom-search-input" placeholder="Digite para buscar crônicas..." autocomplete="off"><div id="custom-search-results"></div>`;
+  
+  if (!overlayInner || !searchOverlay || !searchBtn) return;
+
+  // Injeta o input, a div de resultados e um botão moderno de fechar (X)
+  overlayInner.innerHTML = `
+    <div style="text-align: right; margin-bottom: 1rem;">
+      <button id="custom-search-close" style="background: transparent; border: none; color: #888; cursor: pointer; font-size: 1.8rem; padding: 0; line-height: 1;">&times;</button>
+    </div>
+    <input type="text" id="custom-search-input" placeholder="Busque aqui..." autocomplete="off">
+    <div id="custom-search-results"></div>
+  `;
+
   const searchInput = document.getElementById("custom-search-input");
   const searchResults = document.getElementById("custom-search-results");
+  const closeBtn = document.getElementById("custom-search-close");
   let searchIndex = [];
+
+  // Captura o link do feed JSON de forma segura
   const jsonLink = document.querySelector('link[type="application/json"]');
-  const feedUrl = jsonLink ? jsonLink.getAttribute('href') : './feed.json';
-  fetch(feedUrl).then(r => r.json()).then(data => searchIndex = data.items);
+  const feedUrl = jsonLink ? jsonLink.getAttribute('href') : '/feed.json';
+
+  // Carrega os dados do feed
+  fetch(feedUrl)
+    .then(r => r.json())
+    .then(data => searchIndex = data.items || [])
+    .catch(err => console.error("Erro ao carregar o índice de busca:", err));
+
+  // Funções para abrir e fechar a overlay de pesquisa
+  function openSearch(e) {
+    e.preventDefault();
+    searchOverlay.classList.add('search--active');
+    searchOverlay.style.display = 'block'; // Garante a exibição visual
+    setTimeout(() => searchInput.focus(), 50);
+  }
+
+  function closeSearch() {
+    searchOverlay.classList.remove('search--active');
+    searchOverlay.style.display = 'none';
+    searchInput.value = "";
+    searchResults.innerHTML = "";
+  }
+
+  // Ouvintes de eventos para controle da interface
+  searchBtn.addEventListener('click', openSearch);
+  closeBtn.addEventListener('click', closeSearch);
+
+  // Fecha a pesquisa caso o usuário aperte a tecla ESC
+  document.addEventListener('keydown', function (e) {
+    if (e.key === 'Escape') closeSearch();
+  });
   
+  // Executa a filtragem a cada caractere digitado
   searchInput.addEventListener("input", function () {
     const query = searchInput.value.toLowerCase().trim();
     searchResults.innerHTML = "";
+    
     if (query.length < 2) return;
-    const filtered = searchIndex.filter(post => post.title.toLowerCase().includes(query) || post.content_html.toLowerCase().includes(query));
+
+    // CORREÇÃO: Filtro seguro que verifica se a propriedade existe antes de transformar em minúscula
+    const filtered = searchIndex.filter(post => {
+      const titleText = post.title ? post.title.toLowerCase() : "";
+      const contentText = post.content_html ? post.content_html.toLowerCase() : "";
+      return titleText.includes(query) || contentText.includes(query);
+    });
+
+    if (filtered.length === 0) {
+      searchResults.innerHTML = `<p style="color: #666; font-size: 1rem; text-align: left;">Nenhuma crônica encontrada para "${searchInput.value}".</p>`;
+      return;
+    }
+
+    // Renderiza os resultados encontrados
     filtered.forEach(post => {
       const item = document.createElement("div");
       item.className = "custom-search-item";
-      item.innerHTML = `<h3><a href="${post.url}">${post.title}</a></h3>`;
+      item.innerHTML = `<h3><a href="${post.url}">${post.title || "Sem título"}</a></h3>`;
       searchResults.appendChild(item);
     });
   });
