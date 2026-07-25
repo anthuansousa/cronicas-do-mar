@@ -6,4 +6,4 @@ User-agent: CCBot
 Disallow: /
 User-agent: *
 Disallow:
-Sitemap: https://cronicasdomar.pages.dev/sitemap.xml
+Sitemap: https://cronicasdomar.com.br/sitemap.xml

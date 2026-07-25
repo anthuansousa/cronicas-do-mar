@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>Crônicas do Mar</title>
-    <link href="https://cronicasdomar.pages.dev/feed.xml" rel="self" />
-    <link href="https://cronicasdomar.pages.dev" />
-    <updated>2026-07-18T20:33:59-03:00</updated>
+    <link href="https://cronicasdomar.com.br/feed.xml" rel="self" />
+    <link href="https://cronicasdomar.com.br" />
+    <updated>2026-07-24T20:06:53-03:00</updated>
     <author>
         <name>Anthuan Sousa</name>
     </author>
-    <id>https://cronicasdomar.pages.dev</id>
+    <id>https://cronicasdomar.com.br</id>
 
     <entry>
         <title>Atualização 1.0</title>
         <author>
             <name>Anthuan Sousa</name>
         </author>
-        <link href="https://cronicasdomar.pages.dev/posts/atualizacao-1-0/"/>
-        <id>https://cronicasdomar.pages.dev/posts/atualizacao-1-0/</id>
-        <media:content url="https://cronicasdomar.pages.dev/media/posts/23/teclas.webp" medium="image" />
+        <link href="https://cronicasdomar.com.br/posts/atualizacao-1-0/"/>
+        <id>https://cronicasdomar.com.br/posts/atualizacao-1-0/</id>
+        <media:content url="https://cronicasdomar.com.br/media/posts/23/teclas.webp" medium="image" />
             <category term="Logs"/>
 
         <updated>2026-06-18T17:09:00-03:00</updated>
             <summary type="html">
                 <![CDATA[
-                        <img src="https://cronicasdomar.pages.dev/media/posts/23/teclas.webp" alt="Close-up em preto e branco de teclas metálicas de uma máquina de escrever antiga, com várias letras visíveis e fundo escuro desfocado." />
+                        <img src="https://cronicasdomar.com.br/media/posts/23/teclas.webp" alt="Close-up em preto e branco de teclas metálicas de uma máquina de escrever antiga, com várias letras visíveis e fundo escuro desfocado." />
                     Atualização feita na antiga plataforma. Nesse mês chegamos ao aniversário de 1 ano do Crônicas do Mar, um projeto singelo que teve um impacto muito positivo na vida deste autor que vos fala. Sempre gostei de escrever, mas foi uma descoberta muito boa poder solidificar e eternizar meus textos em um lugar meu, de um&hellip;
                 ]]>
             </summary>
@@ -33,15 +33,15 @@
         <author>
             <name>Anthuan Sousa</name>
         </author>
-        <link href="https://cronicasdomar.pages.dev/posts/a-viagem/"/>
-        <id>https://cronicasdomar.pages.dev/posts/a-viagem/</id>
-        <media:content url="https://cronicasdomar.pages.dev/media/posts/19/littleme.webp" medium="image" />
+        <link href="https://cronicasdomar.com.br/posts/a-viagem/"/>
+        <id>https://cronicasdomar.com.br/posts/a-viagem/</id>
+        <media:content url="https://cronicasdomar.com.br/media/posts/19/littleme.webp" medium="image" />
             <category term="Deriva"/>
 
         <updated>2026-05-14T16:43:00-03:00</updated>
             <summary type="html">
                 <![CDATA[
-                        <img src="https://cronicasdomar.pages.dev/media/posts/19/littleme.webp" alt="Silhouettes of two people sitting close together on a beach, gazing at the ocean under a cloudy sky." />
+                        <img src="https://cronicasdomar.com.br/media/posts/19/littleme.webp" alt="Silhouettes of two people sitting close together on a beach, gazing at the ocean under a cloudy sky." />
                     Aquela solidão que sentia não era de toda ingrata naquele momento, era sobretudo uma sombra do seu antigo eu, um antigo pequenino. E de mãos dadas permaneceram, depois de dias, contemplando o infinito, o céu azul e a vida em sua mais pura forma e esplendor. De mãos dadas… Foi assim que, por entre os&hellip;
                 ]]>
             </summary>
@@ -52,15 +52,15 @@
         <author>
             <name>Anthuan Sousa</name>
         </author>
-        <link href="https://cronicasdomar.pages.dev/posts/um-aviso-metafisico/"/>
-        <id>https://cronicasdomar.pages.dev/posts/um-aviso-metafisico/</id>
-        <media:content url="https://cronicasdomar.pages.dev/media/posts/18/panelas.webp" medium="image" />
+        <link href="https://cronicasdomar.com.br/posts/um-aviso-metafisico/"/>
+        <id>https://cronicasdomar.com.br/posts/um-aviso-metafisico/</id>
+        <media:content url="https://cronicasdomar.com.br/media/posts/18/panelas.webp" medium="image" />
             <category term="Deriva"/>
 
         <updated>2026-03-09T16:42:00-03:00</updated>
             <summary type="html">
                 <![CDATA[
-                        <img src="https://cronicasdomar.pages.dev/media/posts/18/panelas.webp" alt="Panelas e utensílios de cozinha sobre um fogão, com uma panela no fogo soltando vapor." />
+                        <img src="https://cronicasdomar.com.br/media/posts/18/panelas.webp" alt="Panelas e utensílios de cozinha sobre um fogão, com uma panela no fogo soltando vapor." />
                     Há 15 anos, perdi uma tia para o câncer. Estava no trabalho quando recebi a notícia. ​— Foi de repente — disseram. ​​Não chorei na hora. Recebi a notícia e disse que iria ao velório. Quando cheguei à casa, já preparada para um último adeus, vi o caixão aberto com seu corpo velado para todos&hellip;
                 ]]>
             </summary>
@@ -71,15 +71,15 @@
         <author>
             <name>Anthuan Sousa</name>
         </author>
-        <link href="https://cronicasdomar.pages.dev/posts/ecos-da-madrugada/"/>
-        <id>https://cronicasdomar.pages.dev/posts/ecos-da-madrugada/</id>
-        <media:content url="https://cronicasdomar.pages.dev/media/posts/17/alone.webp" medium="image" />
+        <link href="https://cronicasdomar.com.br/posts/ecos-da-madrugada/"/>
+        <id>https://cronicasdomar.com.br/posts/ecos-da-madrugada/</id>
+        <media:content url="https://cronicasdomar.com.br/media/posts/17/alone.webp" medium="image" />
             <category term="Deriva"/>
 
         <updated>2026-02-08T16:42:00-03:00</updated>
             <summary type="html">
                 <![CDATA[
-                        <img src="https://cronicasdomar.pages.dev/media/posts/17/alone.webp" alt="A solitary figure sits on the beach, gazing at the turbulent waves under a cloudy sky." />
+                        <img src="https://cronicasdomar.com.br/media/posts/17/alone.webp" alt="A solitary figure sits on the beach, gazing at the turbulent waves under a cloudy sky." />
                     Às vezes a solidão é aterradora Essa noite fria Solidão latente Na alma descontente No meu ser ecoa Reverberando para um profundo vazio Naquilo que jaz um eu não nascido Um eu não vivido E nesse encanto desencanto Vou vivendo as disforias do meu viver... O recanto do lamento E o altar da escassez E&hellip;
                 ]]>
             </summary>
@@ -90,15 +90,15 @@
         <author>
             <name>Anthuan Sousa</name>
         </author>
-        <link href="https://cronicasdomar.pages.dev/posts/mascara/"/>
-        <id>https://cronicasdomar.pages.dev/posts/mascara/</id>
-        <media:content url="https://cronicasdomar.pages.dev/media/posts/16/circus.webp" medium="image" />
+        <link href="https://cronicasdomar.com.br/posts/mascara/"/>
+        <id>https://cronicasdomar.com.br/posts/mascara/</id>
+        <media:content url="https://cronicasdomar.com.br/media/posts/16/circus.webp" medium="image" />
             <category term="Deriva"/>
 
         <updated>2026-01-15T16:42:00-03:00</updated>
             <summary type="html">
                 <![CDATA[
-                        <img src="https://cronicasdomar.pages.dev/media/posts/16/circus.webp" alt="A lonely chair sits on the beach next to a mask and a discarded garment, with waves crashing in the background." />
+                        <img src="https://cronicasdomar.com.br/media/posts/16/circus.webp" alt="A lonely chair sits on the beach next to a mask and a discarded garment, with waves crashing in the background." />
                     Honestamente, odeio ter que fingir. Odeio interpretar um papel que não é meu. Um papel dado a mim ao nascer. Ser o protagonista da própria história, mesmo que de maneira forçada, tem o seu preço... O drama é extra. O espetáculo nunca acaba e o aplauso nunca vem. Um dia, super-homem; no outro, mendigo. Qual&hellip;
                 ]]>
             </summary>
@@ -109,15 +109,15 @@
         <author>
             <name>Anthuan Sousa</name>
         </author>
-        <link href="https://cronicasdomar.pages.dev/posts/de-repente-30-parte-i/"/>
-        <id>https://cronicasdomar.pages.dev/posts/de-repente-30-parte-i/</id>
-        <media:content url="https://cronicasdomar.pages.dev/media/posts/21/escrita.webp" medium="image" />
+        <link href="https://cronicasdomar.com.br/posts/de-repente-30-parte-i/"/>
+        <id>https://cronicasdomar.com.br/posts/de-repente-30-parte-i/</id>
+        <media:content url="https://cronicasdomar.com.br/media/posts/21/derepente30.webp" medium="image" />
             <category term="Edits"/>
 
         <updated>2025-11-24T17:08:00-03:00</updated>
             <summary type="html">
                 <![CDATA[
-                        <img src="https://cronicasdomar.pages.dev/media/posts/21/escrita.webp" alt="Mão apoiada segunrando uma pena para escrever." />
+                        <img src="https://cronicasdomar.com.br/media/posts/21/derepente30.webp" alt="A woman in a nightgown and sleep mask appears shocked, standing in a home library with her hands over her chest." />
                     “Trinta é a idade do sucesso.” Ricardo tinha onze anos quando ouviu essa frase pela primeira vez. Ela vinha de De Repente 30, uma comédia romântica estrelada por Jennifer Garner e Mark Ruffalo, ambos no auge da beleza. E ele acreditou. Acreditou com todas as suas forças que, de alguma forma, o destino, a sociedade&hellip;
                 ]]>
             </summary>
@@ -128,15 +128,15 @@
         <author>
             <name>Anthuan Sousa</name>
         </author>
-        <link href="https://cronicasdomar.pages.dev/posts/identidade/"/>
-        <id>https://cronicasdomar.pages.dev/posts/identidade/</id>
-        <media:content url="https://cronicasdomar.pages.dev/media/posts/15/void.webp" medium="image" />
+        <link href="https://cronicasdomar.com.br/posts/identidade/"/>
+        <id>https://cronicasdomar.com.br/posts/identidade/</id>
+        <media:content url="https://cronicasdomar.com.br/media/posts/15/void.webp" medium="image" />
             <category term="Deriva"/>
 
         <updated>2025-11-24T16:42:00-03:00</updated>
             <summary type="html">
                 <![CDATA[
-                        <img src="https://cronicasdomar.pages.dev/media/posts/15/void.webp" alt="A dramatic black and white image depicting a swirling vortex in a turbulent ocean under stormy skies with lightning." />
+                        <img src="https://cronicasdomar.com.br/media/posts/15/void.webp" alt="A dramatic black and white image depicting a swirling vortex in a turbulent ocean under stormy skies with lightning." />
                     A vida é um vórtex infinito, quanto mais paro para pensar sobre ela mais chego a uma conclusão inconclusiva. O amor, o ódio, a paixão, a paz, a guerra, a vaidade, a singularidade, a alegria, a dor, a tristeza são aspectos de nossa natureza que me prendem na percepção de que somos apenas máquinas biológicas&hellip;
                 ]]>
             </summary>
@@ -147,15 +147,15 @@
         <author>
             <name>Anthuan Sousa</name>
         </author>
-        <link href="https://cronicasdomar.pages.dev/posts/atualizacao-01/"/>
-        <id>https://cronicasdomar.pages.dev/posts/atualizacao-01/</id>
-        <media:content url="https://cronicasdomar.pages.dev/media/posts/22/teclas.webp" medium="image" />
+        <link href="https://cronicasdomar.com.br/posts/atualizacao-01/"/>
+        <id>https://cronicasdomar.com.br/posts/atualizacao-01/</id>
+        <media:content url="https://cronicasdomar.com.br/media/posts/22/teclas.webp" medium="image" />
             <category term="Logs"/>
 
         <updated>2025-09-13T17:09:00-03:00</updated>
             <summary type="html">
                 <![CDATA[
-                        <img src="https://cronicasdomar.pages.dev/media/posts/22/teclas.webp" alt="Close-up em preto e branco de teclas metálicas de uma máquina de escrever antiga, com várias letras visíveis e fundo escuro desfocado." />
+                        <img src="https://cronicasdomar.com.br/media/posts/22/teclas.webp" alt="Close-up em preto e branco de teclas metálicas de uma máquina de escrever antiga, com várias letras visíveis e fundo escuro desfocado." />
                     Atualização feita na antiga plataforma. Nesses dias estava pensando sobre a importância desse blogue para mim e como esse projeto pessoal está impactando na minha vida. Ele começou mesmo como um santuário/caixinha de espiação das coisas que eu sinto. Isso me ajudou a lidar com algumas coisas que eu estava sentindo e continua me ajudando&hellip;
                 ]]>
             </summary>
@@ -166,15 +166,15 @@
         <author>
             <name>Anthuan Sousa</name>
         </author>
-        <link href="https://cronicasdomar.pages.dev/posts/bolhas-de-sabao/"/>
-        <id>https://cronicasdomar.pages.dev/posts/bolhas-de-sabao/</id>
-        <media:content url="https://cronicasdomar.pages.dev/media/posts/14/bubles.webp" medium="image" />
+        <link href="https://cronicasdomar.com.br/posts/bolhas-de-sabao/"/>
+        <id>https://cronicasdomar.com.br/posts/bolhas-de-sabao/</id>
+        <media:content url="https://cronicasdomar.com.br/media/posts/14/bubles.webp" medium="image" />
             <category term="Deriva"/>
 
         <updated>2025-09-11T16:42:00-03:00</updated>
             <summary type="html">
                 <![CDATA[
-                        <img src="https://cronicasdomar.pages.dev/media/posts/14/bubles.webp" alt="Clear bubbles float over a serene black-and-white beach scene with gentle waves lapping at the shore." />
+                        <img src="https://cronicasdomar.com.br/media/posts/14/bubles.webp" alt="Clear bubbles float over a serene black-and-white beach scene with gentle waves lapping at the shore." />
                     De que valem as palavras? Consegue ouvi-las? Aquecem teu coração? Ou flutuam como bolhas de sabão? Dispersas, coloridas e inebriantes no ar quente desse tempo de verão? A sombra, a luz, os risos, as crianças, o teu colo, o teu sorriso... o teu sorriso. Olhar de ressaca... Teus dedos languidos. Teu toque. O mundo nas&hellip;
                 ]]>
             </summary>
@@ -185,15 +185,15 @@
         <author>
             <name>Anthuan Sousa</name>
         </author>
-        <link href="https://cronicasdomar.pages.dev/posts/labirinto/"/>
-        <id>https://cronicasdomar.pages.dev/posts/labirinto/</id>
-        <media:content url="https://cronicasdomar.pages.dev/media/posts/20/escrita.webp" medium="image" />
+        <link href="https://cronicasdomar.com.br/posts/labirinto/"/>
+        <id>https://cronicasdomar.com.br/posts/labirinto/</id>
+        <media:content url="https://cronicasdomar.com.br/media/posts/20/escrita.webp" medium="image" />
             <category term="Edits"/>
 
         <updated>2025-07-13T17:07:00-03:00</updated>
             <summary type="html">
                 <![CDATA[
-                        <img src="https://cronicasdomar.pages.dev/media/posts/20/escrita.webp" alt="Mão apoiada segunrando uma pena para escrever." />
+                        <img src="https://cronicasdomar.com.br/media/posts/20/escrita.webp" alt="Mão apoiada segunrando uma pena para escrever." />
                     Você já se sentiu em um loop do qual não conseguiu sair? Não sei mais como lidar com isso. — Semana que vem vai dar certo. Segunda, não é? — Não, mas para fazer isso eu preciso terminar aquilo. — E aquela dieta? Vai dar certo? — Só consigo treinar quando chegar em casa, mas&hellip;
                 ]]>
             </summary>
@@ -204,15 +204,15 @@
         <author>
             <name>Anthuan Sousa</name>
         </author>
-        <link href="https://cronicasdomar.pages.dev/posts/carta-para-lir/"/>
-        <id>https://cronicasdomar.pages.dev/posts/carta-para-lir/</id>
-        <media:content url="https://cronicasdomar.pages.dev/media/posts/13/garrafa.webp" medium="image" />
+        <link href="https://cronicasdomar.com.br/posts/carta-para-lir/"/>
+        <id>https://cronicasdomar.com.br/posts/carta-para-lir/</id>
+        <media:content url="https://cronicasdomar.com.br/media/posts/13/garrafa.webp" medium="image" />
             <category term="Deriva"/>
 
         <updated>2025-07-08T16:42:00-03:00</updated>
             <summary type="html">
                 <![CDATA[
-                        <img src="https://cronicasdomar.pages.dev/media/posts/13/garrafa.webp" alt="A glass bottle floats in water, containing a rolled-up message inside, with droplets on its surface." />
+                        <img src="https://cronicasdomar.com.br/media/posts/13/garrafa.webp" alt="A glass bottle floats in water, containing a rolled-up message inside, with droplets on its surface." />
                     Querido Lir. Eu queria poder falar abertamente sobre as coisas das quais te invejo. Queria poder ter sua beleza. Queria poder exalar teu bom perfume. Queria poder me sobressair com o rosto não tão cansado assim. Queria poder. Queria poder. Invejo sua luz e sua leveza. Invejo sobre como você olha pela janela e vê&hellip;
                 ]]>
             </summary>
@@ -223,15 +223,15 @@
         <author>
             <name>Anthuan Sousa</name>
         </author>
-        <link href="https://cronicasdomar.pages.dev/posts/elefante-branco/"/>
-        <id>https://cronicasdomar.pages.dev/posts/elefante-branco/</id>
-        <media:content url="https://cronicasdomar.pages.dev/media/posts/12/gaivotas.webp" medium="image" />
+        <link href="https://cronicasdomar.com.br/posts/elefante-branco/"/>
+        <id>https://cronicasdomar.com.br/posts/elefante-branco/</id>
+        <media:content url="https://cronicasdomar.com.br/media/posts/12/gaivotas.webp" medium="image" />
             <category term="Deriva"/>
 
         <updated>2025-06-24T16:41:00-03:00</updated>
             <summary type="html">
                 <![CDATA[
-                        <img src="https://cronicasdomar.pages.dev/media/posts/12/gaivotas.webp" alt="Seagulls soar above a calm sea, with a distant horizon under a clear sky." />
+                        <img src="https://cronicasdomar.com.br/media/posts/12/gaivotas.webp" alt="Seagulls soar above a calm sea, with a distant horizon under a clear sky." />
                     Eu te amo — disse ele ao meu ouvido antes de soltar minha mão e correr para seu ônibus. A minha reação foi de completa alegria e medo. Não pude dizer o que sentia, mesmo que por um momento. Abdiquei de dizer o que queria ter dito. Como no filme Efeito Borboleta, eu teria feito&hellip;
                 ]]>
             </summary>
