@@ -11,6 +11,21 @@
     },
     "items": [
         {
+            "id": "https://cronicasdomar.com.br/posts/atualizacao-2-0/",
+            "url": "https://cronicasdomar.com.br/posts/atualizacao-2-0/",
+            "title": "Atualização 2.0: uma nova experiência de leitura",
+            "summary": "Fazendo aniversário de 1 ano de existência, olhei para o Crônicas do Mar - meu projeto pessoal e minimalista hospedado no Bearblog - e vi a possibilidade de crescimento. Afinal é merecido acreditarmos em nós mesmos. Então decidi que precisava de uma casa nova e só minha para poder expandir todas as possibilidades que o&hellip;",
+            "image": "https://cronicasdomar.com.br/media/posts/26/teclas.webp",
+            "author": {
+                "name": "Anthuan Sousa"
+            },
+            "tags": [
+                   "Logs"
+            ],
+            "date_published": "2026-07-25T01:29:21-03:00",
+            "date_modified": "2026-07-25T02:06:23-03:00"
+        },
+        {
             "id": "https://cronicasdomar.com.br/posts/atualizacao-1-0/",
             "url": "https://cronicasdomar.com.br/posts/atualizacao-1-0/",
             "title": "Atualização 1.0",

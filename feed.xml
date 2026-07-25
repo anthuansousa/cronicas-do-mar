@@ -3,12 +3,31 @@
     <title>Crônicas do Mar</title>
     <link href="https://cronicasdomar.com.br/feed.xml" rel="self" />
     <link href="https://cronicasdomar.com.br" />
-    <updated>2026-07-24T20:06:53-03:00</updated>
+    <updated>2026-07-25T02:06:23-03:00</updated>
     <author>
         <name>Anthuan Sousa</name>
     </author>
     <id>https://cronicasdomar.com.br</id>
 
+    <entry>
+        <title>Atualização 2.0: uma nova experiência de leitura</title>
+        <author>
+            <name>Anthuan Sousa</name>
+        </author>
+        <link href="https://cronicasdomar.com.br/posts/atualizacao-2-0/"/>
+        <id>https://cronicasdomar.com.br/posts/atualizacao-2-0/</id>
+        <media:content url="https://cronicasdomar.com.br/media/posts/26/teclas.webp" medium="image" />
+            <category term="Logs"/>
+
+        <updated>2026-07-25T01:29:21-03:00</updated>
+            <summary type="html">
+                <![CDATA[
+                        <img src="https://cronicasdomar.com.br/media/posts/26/teclas.webp" alt="Close-up em preto e branco de teclas metálicas de uma máquina de escrever antiga, com várias letras visíveis e fundo escuro desfocado." />
+                    Fazendo aniversário de 1 ano de existência, olhei para o Crônicas do Mar - meu projeto pessoal e minimalista hospedado no Bearblog - e vi a possibilidade de crescimento. Afinal é merecido acreditarmos em nós mesmos. Então decidi que precisava de uma casa nova e só minha para poder expandir todas as possibilidades que o&hellip;
+                ]]>
+            </summary>
+        <content></content>
+    </entry>
     <entry>
         <title>Atualização 1.0</title>
         <author>
