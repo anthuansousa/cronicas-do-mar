@@ -8,16 +8,75 @@
   .home-template .hero { display: block !important; background: transparent !important; padding: 0 !important; margin-bottom: 2rem; }
   .home-template .hero__content { padding: 0 !important; }
 
-  /* === 2. SISTEMA DE BUSCA === */
-  .search__overlay { background: #161616 !important; }
-  .search__overlay-inner { padding-top: 6rem; max-width: 700px; margin: 0 auto; display: block !important; }
-  #custom-search-input { width: 100%; padding: 16px 24px; background: #1a1a1a !important; border: 1px solid #2a2a2a !important; border-radius: 8px !important; color: #e3e2db !important; font-size: 1.2rem !important; outline: none !important; box-shadow: none !important; }
-  #custom-search-input:focus { border-color: #555555 !important; background: #1f1f1f !important; outline: none !important; box-shadow: none !important; }
-  #custom-search-results { margin-top: 2.5rem; max-height: 60vh; overflow-y: auto; padding-right: 10px; }
-  .custom-search-item { margin-bottom: 1.8rem; border-bottom: 1px solid #222; padding-bottom: 1.2rem; text-align: left; }
-  .custom-search-item h3 { margin: 0 0 0.4rem 0; }
-  .custom-search-item h3 a { color: #e3e2db !important; text-decoration: none; font-size: 1.3rem; }
-  .custom-search-item p { color: #888; font-size: 0.95rem; line-height: 1.5; margin: 0; }
+/* === 2. SISTEMA DE BUSCA === */
+.search__overlay { 
+  position: fixed !important;
+  top: 0 !important;
+  left: 0 !important;
+  width: 100vw !important;
+  height: 100vh !important;
+  background: #161616 !important; 
+  z-index: 99999 !important; /* Garante que fique por cima de todo o conteúdo e menus */
+  overflow-y: auto !important; /* Permite rolar a overlay caso os resultados sejam longos */
+}
+
+.search__overlay-inner { 
+  padding-top: 6rem; 
+  padding-bottom: 4rem;
+  max-width: 700px; 
+  margin: 0 auto; 
+  display: block !important; 
+}
+
+#custom-search-input { 
+  width: 100%; 
+  padding: 16px 24px; 
+  background: #1a1a1a !important; 
+  border: 1px solid #2a2a2a !important; 
+  border-radius: 8px !important; 
+  color: #e3e2db !important; 
+  font-size: 1.2rem !important; 
+  outline: none !important; 
+  box-shadow: none !important; 
+}
+
+#custom-search-input:focus { 
+  border-color: #555555 !important; 
+  background: #1f1f1f !important; 
+  outline: none !important; 
+  box-shadow: none !important; 
+}
+
+#custom-search-results { 
+  margin-top: 2.5rem; 
+  max-height: 65vh; 
+  overflow-y: auto; 
+  padding-right: 10px; 
+}
+
+.custom-search-item { 
+  margin-bottom: 1.8rem; 
+  border-bottom: 1px solid #222; 
+  padding-bottom: 1.2rem; 
+  text-align: left; 
+}
+
+.custom-search-item h3 { 
+  margin: 0 0 0.4rem 0; 
+}
+
+.custom-search-item h3 a { 
+  color: #e3e2db !important; 
+  text-decoration: none; 
+  font-size: 1.3rem; 
+}
+
+.custom-search-item p { 
+  color: #888; 
+  font-size: 0.95rem; 
+  line-height: 1.5; 
+  margin: 0; 
+}
 
   /* === 3. LAYOUT GRID E SIDEBAR === */
   @media (min-width: 1024px) {
