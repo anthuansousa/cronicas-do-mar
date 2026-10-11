@@ -11,6 +11,21 @@
     },
     "items": [
         {
+            "id": "https://cronicasdomar.com.br/posts/licao-do-nao-ser/",
+            "url": "https://cronicasdomar.com.br/posts/licao-do-nao-ser/",
+            "title": "Lição do não ser",
+            "summary": "Nesses dias me peguei refletindo sobre como é normal as pessoas ficarem ressentidas com você por você possuir algum dom, trabalhar bem, fazer algo bem feito, receber elogios, entre outros motivos que passam em suas mentes que só deus pode saber. Maturei bastante sobre como isso pode te atrapalhar, principalmente quando o ressentido é alguém&hellip;",
+            "image": "https://cronicasdomar.com.br/media/posts/24/redimensionamento-e-compressao.svg",
+            "author": {
+                "name": "Anthuan Sousa"
+            },
+            "tags": [
+                   "Edits"
+            ],
+            "date_published": "2026-10-11T09:00:00-03:00",
+            "date_modified": "2026-10-11T12:12:19-03:00"
+        },
+        {
             "id": "https://cronicasdomar.com.br/posts/pintura-intima/",
             "url": "https://cronicasdomar.com.br/posts/pintura-intima/",
             "title": "Pintura íntima",
@@ -39,21 +54,6 @@
             ],
             "date_published": "2026-07-25T01:29:21-03:00",
             "date_modified": "2026-07-25T02:06:23-03:00"
-        },
-        {
-            "id": "https://cronicasdomar.com.br/posts/licao-do-nao-ser/",
-            "url": "https://cronicasdomar.com.br/posts/licao-do-nao-ser/",
-            "title": "Lição do não ser",
-            "summary": "Nesses dias me peguei refletindo sobre como é normal as pessoas ficarem ressentidas com você por você possuir algum dom, trabalhar bem, fazer algo bem feito, receber elogios, entre outros motivos que passam em suas mentes que só deus pode saber. Maturei bastante sobre como isso pode te atrapalhar, principalmente quando o ressentido é alguém&hellip;",
-            "image": "https://cronicasdomar.com.br/media/posts/24/redimensionamento-e-compressao.svg",
-            "author": {
-                "name": "Anthuan Sousa"
-            },
-            "tags": [
-                   "Edits"
-            ],
-            "date_published": "2026-06-25T21:51:02-03:00",
-            "date_modified": "2026-10-11T12:03:51-03:00"
         },
         {
             "id": "https://cronicasdomar.com.br/posts/atualizacao-1-0/",
